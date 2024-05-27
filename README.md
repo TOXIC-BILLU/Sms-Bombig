@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Hackers**
+- 🔭 I’m currently working on **Our Github**
 
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 🤝 I’m looking for help with **Hacked**
+- 🤝 I’m looking for help with **Hacking**
 
 - 👨‍💻 All of my projects are available at [On FB](On FB)
 
