@@ -1,0 +1,1513 @@
+--------- beginning of main
+05-24 21:13:42.117 25658 25697 I CameraManagerExtImpl: getInstance success!
+05-24 21:13:42.117 25658 25697 I CameraManagerExtImpl: packagename is com.google.android.GoogleCameraLMC
+05-24 21:13:42.118 25658 25697 I OplusCameraManager: saveOpPackageName, mOpPackageName: com.google.android.GoogleCameraLMC
+05-24 21:13:42.119 25658 25697 I OplusCameraManagerGlobal: setClientInfo, packageName: com.google.android.GoogleCameraLMC, uid: 10742, pid: 25658
+05-24 21:13:42.120 25658 25697 I OplusCameraManagerGlobal: Connecting to camera service
+05-24 21:13:42.125 25658 25697 I CameraManagerGlobal: Connecting to camera service
+05-24 21:13:42.129 25658 25685 W AudioCapabilities: Unsupported mime audio/x-adpcm-dvi-ima
+05-24 21:13:42.130 25658 25685 W AudioCapabilities: Unsupported mime audio/x-adpcm-dvi-ima
+05-24 21:13:42.130 25658 25685 W AudioCapabilities: Unsupported mime audio/x-adpcm-ms
+05-24 21:13:42.131 25658 25685 W AudioCapabilities: Unsupported mime audio/x-adpcm-ms
+05-24 21:13:42.131 25658 25685 W AudioCapabilities: Unsupported mime audio/alac
+05-24 21:13:42.132 25658 25685 W AudioCapabilities: Unsupported mime audio/alac
+05-24 21:13:42.132 25658 25685 W AudioCapabilities: Unsupported mime audio/ape
+05-24 21:13:42.132 25658 25685 W AudioCapabilities: Unsupported mime audio/ape
+05-24 21:13:42.138 25658 25685 W AudioCapabilities: Unsupported mime audio/ffmpeg
+05-24 21:13:42.139 25658 25685 W VideoCapabilities: Unsupported mime video/ffmpeg
+05-24 21:13:42.145 25658 25685 W VideoCapabilities: Unrecognized profile/level 32768/256 for video/mp4v-es
+05-24 21:13:42.145 25658 25685 W VideoCapabilities: Unrecognized profile/level 32768/256 for video/mp4v-es
+05-24 21:13:42.147 25658 25685 W VideoCapabilities: Unsupported mime video/x-ms-wmv
+05-24 21:13:42.147 25658 25685 W VideoCapabilities: Unsupported mime video/x-ms-wmv
+05-24 21:13:42.156 25658 25658 I oplus.android.OplusFrameworkFactoryImpl: Unknow feature:IOplusTextViewRTLUtilForUG
+05-24 21:13:42.158 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.159 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.159 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.159 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.159 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.160 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.160 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.160 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.160 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.160 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.161 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.162 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.162 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.162 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.163 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.163 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.163 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.163 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.163 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.164 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.164 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.164 25658 25697 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.166 25658 25699 D CameraManager2: GotArray:0
+05-24 21:13:42.167 25658 25699 D CameraManager2: GotArray:1
+05-24 21:13:42.167 25658 25699 D CameraManager2: GotArray:2
+05-24 21:13:42.167 25658 25699 D CameraManager2: GotArray:3
+05-24 21:13:42.167 25658 25699 D CameraManager2: GotArray:4
+05-24 21:13:42.167 25658 25699 D CameraManager2: GotArray:6
+05-24 21:13:42.172 25658 25701 D CameraManager2: GotArray:0
+05-24 21:13:42.173 25658 25701 D CameraManager2: GotArray:1
+05-24 21:13:42.173 25658 25701 D CameraManager2: GotArray:2
+05-24 21:13:42.174 25658 25701 D CameraManager2: GotArray:3
+05-24 21:13:42.174 25658 25701 D CameraManager2: GotArray:4
+05-24 21:13:42.174 25658 25701 D CameraManager2: GotArray:6
+05-24 21:13:42.177 25658 25697 W CAM_A   : Build number (S.202404011220) is not a number. Ignoring version check for b/149569689.
+05-24 21:13:42.180 25658 25697 D CameraManager2: GotArray:0
+05-24 21:13:42.180 25658 25697 D CameraManager2: GotArray:1
+05-24 21:13:42.180 25658 25697 D CameraManager2: GotArray:2
+05-24 21:13:42.180 25658 25697 D CameraManager2: GotArray:3
+05-24 21:13:42.180 25658 25697 D CameraManager2: GotArray:4
+05-24 21:13:42.181 25658 25697 D CameraManager2: GotArray:6
+05-24 21:13:42.183 25658 25697 I OplusCameraManagerGlobal: setClientInfo, packageName: com.google.android.GoogleCameraLMC, uid: 10742, pid: 25658
+--------- beginning of system
+05-24 21:13:42.194 25658 25658 E OplusCustomizeRestrictionManager: sInstance is null, start a new sInstance
+05-24 21:13:42.197 25658 25697 I OplusCameraManagerGlobal: setClientInfo, packageName: com.google.android.GoogleCameraLMC, uid: 10742, pid: 25658
+05-24 21:13:42.200 25658 25701 D CameraManager2: GotArray:0
+05-24 21:13:42.200 25658 25701 D CameraManager2: GotArray:1
+05-24 21:13:42.200 25658 25701 D CameraManager2: GotArray:2
+05-24 21:13:42.200 25658 25701 D CameraManager2: GotArray:3
+05-24 21:13:42.200 25658 25701 D CameraManager2: GotArray:4
+05-24 21:13:42.200 25658 25701 D CameraManager2: GotArray:6
+05-24 21:13:42.204 25658 25701 D CameraManager2: GotArray:0
+05-24 21:13:42.204 25658 25701 D CameraManager2: GotArray:1
+05-24 21:13:42.204 25658 25701 D CameraManager2: GotArray:2
+05-24 21:13:42.204 25658 25701 D CameraManager2: GotArray:3
+05-24 21:13:42.204 25658 25701 D CameraManager2: GotArray:4
+05-24 21:13:42.204 25658 25701 D CameraManager2: GotArray:6
+05-24 21:13:42.224 25658 25701 D CameraManager2: GotArray:0
+05-24 21:13:42.224 25658 25701 D CameraManager2: GotArray:1
+05-24 21:13:42.225 25658 25701 D CameraManager2: GotArray:2
+05-24 21:13:42.225 25658 25701 D CameraManager2: GotArray:3
+05-24 21:13:42.225 25658 25701 D CameraManager2: GotArray:4
+05-24 21:13:42.225 25658 25701 D CameraManager2: GotArray:6
+05-24 21:13:42.238 25658 25708 I OplusCameraManagerGlobal: setClientInfo, packageName: com.google.android.GoogleCameraLMC, uid: 10742, pid: 25658
+05-24 21:13:42.241 25658 25708 I OplusCameraManagerGlobal: setClientInfo, packageName: com.google.android.GoogleCameraLMC, uid: 10742, pid: 25658
+05-24 21:13:42.243 25658 25709 D libMEOW : meow new tls: 0x7e68224500
+05-24 21:13:42.243 25658 25709 D libMEOW : applied 1 plugins for [com.google.android.GoogleCameraLMC]:
+05-24 21:13:42.244 25658 25709 D libMEOW :   plugin 1: [libMEOW_gift.so]: 0xb400007ed6459940
+05-24 21:13:42.244 25658 25709 D libMEOW : rebuild call chain: 0x7e68248d00
+05-24 21:13:42.245 25658 25708 I CameraDeviceImplExtImpl: getInstance success!
+05-24 21:13:42.245 25658 25708 I OplusCameraManagerGlobal: setClientInfo, packageName: com.google.android.GoogleCameraLMC, uid: 10742, pid: 25658
+05-24 21:13:42.249 25658 25708 D OplusCameraUtils: new OplusCameraUtils!
+05-24 21:13:42.258 25658 25708 I OplusCameraUtils: current activityName: com.google.android.apps.camera.legacy.app.activity.main.CameraActivity
+05-24 21:13:42.258 25658 25708 I OplusCameraUtils: getComponentName, componentName: com.google.android.GoogleCameraLMC/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity, packageName:com.google.android.GoogleCameraLMC, activityName:com.google.android.apps.camera.legacy.app.activity.main.CameraActivity
+05-24 21:13:42.258 25658 25708 I CameraManager: openCameraDeviceUserAsync, use componentName: com.google.android.GoogleCameraLMC/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity
+05-24 21:13:42.259 25658 25709 D hw-ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+05-24 21:13:42.269 25658 25708 I OplusCameraUtils: current activityName: com.google.android.apps.camera.legacy.app.activity.main.CameraActivity
+05-24 21:13:42.269 25658 25708 I OplusCameraUtils: getComponentName, componentName: com.google.android.GoogleCameraLMC/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity, packageName:com.google.android.GoogleCameraLMC, activityName:com.google.android.apps.camera.legacy.app.activity.main.CameraActivity
+05-24 21:13:42.329 25658 25701 I BufferQueueConsumer: [](id:643a00000000,api:0,p:-1,c:25658) connect: controlledByApp=true
+05-24 21:13:42.332 25658 25701 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+05-24 21:13:42.334 25658 25701 D ExtensionsLoader: Opened libSchedAssistExtImpl.so
+05-24 21:13:42.334 25658 25701 E GoogleCameraLM: ofbOpen failed with error=No such file or directory
+05-24 21:13:42.334 25658 25701 E GoogleCameraLM: sysOpen failed with error=No such file or directory
+05-24 21:13:42.335 25658 25701 I SurfaceFactory: [static] sSurfaceFactory = com.mediatek.view.impl.SurfaceFactoryImpl@a65e99f
+05-24 21:13:42.357 25658 25701 I BufferQueueConsumer: [](id:643a00000001,api:0,p:-1,c:25658) connect: controlledByApp=true
+05-24 21:13:42.359 25658 25701 I BufferQueueConsumer: [](id:643a00000002,api:0,p:-1,c:25658) connect: controlledByApp=true
+05-24 21:13:42.423 25658 25658 I DeezNuts: MSG: SLIDER 1 FOCUS: 1.0E-4
+05-24 21:13:42.423 25658 25658 I ProReC  : setprogres0
+05-24 21:13:42.426 25658 25658 I DeezNuts: MSG: SLIDER 0 IDX: 0
+05-24 21:13:42.426 25658 25658 I ProReC  : setprogres_iso0
+05-24 21:13:42.427 25658 25658 I za.defcomk.prorec.cust2.RotSeek: setprogres_iso0
+05-24 21:13:42.433 25658 25658 D ScrollOptimizationHelper: can't find the config file for optimizaiton
+05-24 21:13:42.433 25658 25658 D ScrollOptimizationHelper: will not debug for debug is false
+05-24 21:13:42.433 25658 25658 D CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10742; state: ENABLED
+05-24 21:13:42.434 25658 25658 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-24 21:13:42.435 25658 25658 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-24 21:13:42.435 25658 25658 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-24 21:13:42.441 25658 25707 D OplusCamera2StatisticsManager: addInfo, eventMap: {halLevel=3, cameraId=0, pkgName=com.google.android.GoogleCameraLMC, connentTime=1716563622440, apLevel=2}
+05-24 21:13:42.446 25658 25658 I Quality : ActivityThread: viewInflate delay 199 com.google.android.GoogleCameraLMC:layout/options_menu_container 25658
+05-24 21:13:42.468 25658 25658 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-24 21:13:42.468 25658 25658 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-24 21:13:42.468 25658 25658 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-24 21:13:42.521 25658 25658 I Quality : ActivityThread: viewInflate delay 339 com.google.android.GoogleCameraLMC:layout/activity_main 25658
+05-24 21:13:42.533 25658 25658 I Quality : ActivityThread: activityStart delay 758 com.google.android.GoogleCameraLMC 25658
+05-24 21:13:42.551 25658 25708 I BufferQueueProducer: [ImageReader-960x720f22m11-25658-2](id:643a00000002,api:4,p:1272,c:25658) connect: api=4 producerControlledByApp=true
+05-24 21:13:42.555 25658 25658 D OplusInputMethodUtil: init DEBUG to false, update DEBUG_IME to false
+05-24 21:13:42.555 25658 25658 D OplusInputMethodUtil: init DEBUG to false, update DEBUG_IME to false
+05-24 21:13:42.562 25658 25708 I BufferQueueProducer: [ImageReader-3264x2448f20m30-25658-0](id:643a00000000,api:4,p:1272,c:25658) connect: api=4 producerControlledByApp=false
+05-24 21:13:42.564 25658 25708 I BufferQueueProducer: [ImageReader-1920x1080f23m52-25658-1](id:643a00000001,api:4,p:1272,c:25658) connect: api=4 producerControlledByApp=false
+05-24 21:13:42.569 25658 25658 I MsyncFactory: [static] sMsyncFactory = com.mediatek.view.impl.MsyncFactoryImpl@aae7278
+05-24 21:13:42.570 25658 25754 D OpenMsyncAppList: loadTunerAppList + 
+05-24 21:13:42.572 25658 25754 D OpenMsyncAppList: loadTunerAppList - 
+05-24 21:13:42.574 25658 25658 I OplusSlideAnimOptHelper: checkListMode: is blacklist mode = true
+05-24 21:13:42.576 25658 25658 D OplusSlideAnimOptHelper: com.google.android.GoogleCameraLMC scrollEffectOpt enable = true
+05-24 21:13:42.587 25658 25658 D WindowManager: Add to mViews: DecorView@41b8589[CameraLauncher],pkg= com.google.android.GoogleCameraLMC
+05-24 21:13:42.597 25658 25688 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+05-24 21:13:42.602 25658 25688 D ExtensionsLoader: Opened libhwuiextimpl.so
+05-24 21:13:42.602 25658 25658 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+05-24 21:13:42.603 25658 25658 D ExtensionsLoader: Opened libSchedAssistExtImpl.so
+05-24 21:13:42.615 25658 25658 D ViewRootImpl[CameraLauncher]: hardware acceleration = true, sRendererEnabled = true, forceHwAccelerated = false
+05-24 21:13:42.633 25658 25658 D libMEOW : meow new tls: 0x7e5c55c140
+05-24 21:13:42.633 25658 25658 D libMEOW : applied 1 plugins for [com.google.android.GoogleCameraLMC]:
+05-24 21:13:42.633 25658 25658 D libMEOW :   plugin 1: [libMEOW_gift.so]: 0xb400007ed6459940
+05-24 21:13:42.633 25658 25658 D libMEOW : rebuild call chain: 0x7e5c56b9c0
+05-24 21:13:42.635 25658 25658 I Quality : ActivityThread: activityResume delay 92 com.google.android.GoogleCameraLMC 25658
+05-24 21:13:42.636 25658 25658 I Quality : ActivityThread: activityLifecycle delay 862 com.google.android.GoogleCameraLMC 25658
+05-24 21:13:42.650 25658 25658 I PowerHalWrapper: PowerHalWrapper.getInstance 
+05-24 21:13:42.653 25658 25658 I Quality : Skipped: false 2 cost 36.51672 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:42.653 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 2 true
+05-24 21:13:42.656 25658 25658 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+05-24 21:13:42.656 25658 25658 D ExtensionsLoader: Opened libSchedAssistExtImpl.so
+05-24 21:13:42.663 25658 25683 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.664 25658 25699 D CameraManager2: GotArray:0
+05-24 21:13:42.664 25658 25699 D CameraManager2: GotArray:1
+05-24 21:13:42.665 25658 25699 D CameraManager2: GotArray:2
+05-24 21:13:42.665 25658 25699 D CameraManager2: GotArray:3
+05-24 21:13:42.665 25658 25699 D CameraManager2: GotArray:4
+05-24 21:13:42.665 25658 25699 D CameraManager2: GotArray:6
+05-24 21:13:42.669 25658 25683 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.714 25658 25658 I BufferQueueConsumer: [](id:643a00000003,api:0,p:-1,c:25658) connect: controlledByApp=false
+05-24 21:13:42.717 25658 25658 I BLASTBufferQueue: [ViewRootImpl[CameraLauncher]#0] constructor()
+05-24 21:13:42.719 25658 25658 V ZoomWindowDecorView: setLastReportedMergedConfiguration mZoomDisplayHeight: 1612 getDecorView.68912521
+05-24 21:13:42.724 25658 25688 D libMEOW : meow new tls: 0x7e70f44a40
+05-24 21:13:42.724 25658 25688 D libMEOW : applied 1 plugins for [com.google.android.GoogleCameraLMC]:
+05-24 21:13:42.724 25658 25688 D libMEOW :   plugin 1: [libMEOW_gift.so]: 0xb400007ed6459940
+05-24 21:13:42.724 25658 25688 D libMEOW : rebuild call chain: 0x7e70f54c80
+05-24 21:13:42.734 25658 25688 E OpenGLRenderer: EglManager::makeCurrent mED = 0x1, surface = 0x0, mEC = 0x7e54816280, error = EGL_SUCCESS
+05-24 21:13:42.752 25658 25688 I BufferQueueProducer: [ViewRootImpl[CameraLauncher]#0(BLAST Consumer)0](id:643a00000003,api:1,p:25658,c:25658) connect: api=1 producerControlledByApp=true
+05-24 21:13:42.761 25658 25824 E ion     : ioctl c0044901 failed with code -1: Invalid argument
+05-24 21:13:42.816 25658 25688 E OpenGLRenderer: fbcNotifyFrameComplete error: undefined symbol: fbcNotifyFrameComplete
+05-24 21:13:42.816 25658 25688 E OpenGLRenderer: fbcNotifyNoRender error: undefined symbol: fbcNotifyNoRender
+05-24 21:13:42.821 25658 25671 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+05-24 21:13:42.826 25658 25682 V SystemSensorManagerExtImpl: RegisterListener ROTATION_VECTOR type:11 delay:200000us by hpi
+05-24 21:13:42.826 25658 25682 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:42.829 25658 25658 W CAM_A   : Was already registered as ThermalStatusListener on AppStart
+05-24 21:13:42.960 25658 25658 I Quality : ActivityThread: viewInflate delay 130 com.google.android.GoogleCameraLMC:layout/camera 25658
+05-24 21:13:44.327 25658 25687 I Quality : stackInfo :----- pid 25658 at 2024-05-24 21:13:44.325 -----;Cmd line: com.google.android.GoogleCameraLMC;"main" prio=5 tid=2 BLOCKED sysTid=25658;  at pyr.get(Unknown Source:6);  at pyq.get(Unknown Source:4);  at btj.d(Unknown Source:15);  at btj.a(Unknown Source:0);  at cak.run(Unknown Source:2);  at bwx.run(Unknown Source:82);  at android.os.Handler.handleCallback(Handler.java:938);  at android.os.Handler.dispatchMessage(Handler.java:99);  at android.os.Looper.loopOnce(Looper.java:233);  at android.os.Looper.loop(Looper.java:344);  at android.app.ActivityThread.main(ActivityThread.java:8249);  at java.lang.reflect.Method.invoke(Native Method);  at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:589);  at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1071);
+05-24 21:13:45.103 25658 25658 W GcaGeneric-1: type=1400 audit(0.0:15039): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraLMC/files/libpatched_jni.so" dev="dm-33" ino=1296126 scontext=u:r:untrusted_app_29:s0:c230,c258,c512,c768 tcontext=u:object_r:app_data_file:s0:c230,c258,c512,c768 tclass=file app=com.google.android.GoogleCameraLMC
+05-24 21:13:45.151 25658 25658 W CriticalPath: type=1400 audit(0.0:15040): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraLMC/files/libpatched_jni.so" dev="dm-33" ino=1296126 scontext=u:r:untrusted_app_29:s0:c230,c258,c512,c768 tcontext=u:object_r:app_data_file:s0:c230,c258,c512,c768 tclass=file app=com.google.android.GoogleCameraLMC
+05-24 21:13:45.151 25658 25658 W GcaGeneric-1: type=1400 audit(0.0:15041): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraLMC/files/libpatched_jni.so" dev="dm-33" ino=1296126 scontext=u:r:untrusted_app_29:s0:c230,c258,c512,c768 tcontext=u:object_r:app_data_file:s0:c230,c258,c512,c768 tclass=file app=com.google.android.GoogleCameraLMC
+05-24 21:13:45.155 25658 25658 W 00UiWorker: type=1400 audit(0.0:15042): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraLMC/files/libpatched_jni.so" dev="dm-33" ino=1296126 scontext=u:r:untrusted_app_29:s0:c230,c258,c512,c768 tcontext=u:object_r:app_data_file:s0:c230,c258,c512,c768 tclass=file app=com.google.android.GoogleCameraLMC
+05-24 21:13:45.159 25658 25658 W GcaGeneric-1: type=1400 audit(0.0:15043): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraLMC/files/libpatched_jni.so" dev="dm-33" ino=1296126 scontext=u:r:untrusted_app_29:s0:c230,c258,c512,c768 tcontext=u:object_r:app_data_file:s0:c230,c258,c512,c768 tclass=file app=com.google.android.GoogleCameraLMC
+05-24 21:13:45.172 25658 25699 D CameraManager2: GotArray:0
+05-24 21:13:45.172 25658 25699 D CameraManager2: GotArray:1
+05-24 21:13:45.172 25658 25699 D CameraManager2: GotArray:2
+05-24 21:13:45.172 25658 25699 D CameraManager2: GotArray:3
+05-24 21:13:45.172 25658 25699 D CameraManager2: GotArray:4
+05-24 21:13:45.172 25658 25699 D CameraManager2: GotArray:6
+05-24 21:13:45.189 25658 25699 W pkr     : EEPROM_WB_CALIB is not available
+05-24 21:13:45.251 25658 25699 D CameraManager2: GotArray:0
+05-24 21:13:45.251 25658 25699 D CameraManager2: GotArray:1
+05-24 21:13:45.251 25658 25699 D CameraManager2: GotArray:2
+05-24 21:13:45.251 25658 25699 D CameraManager2: GotArray:3
+05-24 21:13:45.251 25658 25699 D CameraManager2: GotArray:4
+05-24 21:13:45.251 25658 25699 D CameraManager2: GotArray:6
+05-24 21:13:45.259 25658 25699 W pkr     : EEPROM_WB_CALIB is not available
+05-24 21:13:45.377 25658 25658 W CAM_A   : MicInput reset to Phone
+05-24 21:13:45.382 25658 25658 W FontsContract: Platform version of downloadable fonts is deprecated. Please use androidx version instead.
+05-24 21:13:45.458 25658 25701 W CAM_A   : UI view not yet initialized
+05-24 21:13:45.506 25658 25658 D CameraManager2: GotArray:0
+05-24 21:13:45.506 25658 25658 D CameraManager2: GotArray:1
+05-24 21:13:45.506 25658 25658 D CameraManager2: GotArray:2
+05-24 21:13:45.506 25658 25658 D CameraManager2: GotArray:3
+05-24 21:13:45.506 25658 25658 D CameraManager2: GotArray:4
+05-24 21:13:45.506 25658 25658 D CameraManager2: GotArray:6
+05-24 21:13:45.516 25658 25658 D CameraManager2: GotArray:0
+05-24 21:13:45.516 25658 25658 D CameraManager2: GotArray:1
+05-24 21:13:45.516 25658 25658 D CameraManager2: GotArray:2
+05-24 21:13:45.516 25658 25658 D CameraManager2: GotArray:3
+05-24 21:13:45.516 25658 25658 D CameraManager2: GotArray:4
+05-24 21:13:45.516 25658 25658 D CameraManager2: GotArray:6
+05-24 21:13:45.525 25658 25658 D CameraManager2: GotArray:0
+05-24 21:13:45.525 25658 25658 D CameraManager2: GotArray:1
+05-24 21:13:45.525 25658 25658 D CameraManager2: GotArray:2
+05-24 21:13:45.525 25658 25658 D CameraManager2: GotArray:3
+05-24 21:13:45.525 25658 25658 D CameraManager2: GotArray:4
+05-24 21:13:45.525 25658 25658 D CameraManager2: GotArray:6
+05-24 21:13:45.535 25658 25658 D CameraManager2: GotArray:0
+05-24 21:13:45.535 25658 25658 D CameraManager2: GotArray:1
+05-24 21:13:45.535 25658 25658 D CameraManager2: GotArray:2
+05-24 21:13:45.535 25658 25658 D CameraManager2: GotArray:3
+05-24 21:13:45.535 25658 25658 D CameraManager2: GotArray:4
+05-24 21:13:45.535 25658 25658 D CameraManager2: GotArray:6
+05-24 21:13:45.581 25658 25840 W CAM_A   : BufferFlinger is not available. Aborting display.
+05-24 21:13:45.647 25658 25840 W CAM_A   : BufferFlinger is not available. Aborting display.
+05-24 21:13:45.686 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:45.690 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:45.691 25658 25715 W CAM_A   : UNINITIALIZED > abs Δ(result sensor timestamp) = 100.12 ms > 70.00 ms
+05-24 21:13:45.692 25658 25715 W CAM_A   : UNINITIALIZED > result sensor delay = 1.50 > 1.10
+05-24 21:13:45.705 25658 25658 D CameraManager2: GotArray:0
+05-24 21:13:45.705 25658 25658 D CameraManager2: GotArray:1
+05-24 21:13:45.705 25658 25658 D CameraManager2: GotArray:2
+05-24 21:13:45.705 25658 25658 D CameraManager2: GotArray:3
+05-24 21:13:45.705 25658 25658 D CameraManager2: GotArray:4
+05-24 21:13:45.705 25658 25658 D CameraManager2: GotArray:6
+05-24 21:13:45.719 25658 25840 W CAM_A   : BufferFlinger is not available. Aborting display.
+05-24 21:13:45.758 25658 25658 D CameraManager2: GotArray:0
+05-24 21:13:45.758 25658 25658 D CameraManager2: GotArray:1
+05-24 21:13:45.758 25658 25658 D CameraManager2: GotArray:2
+05-24 21:13:45.758 25658 25658 D CameraManager2: GotArray:3
+05-24 21:13:45.758 25658 25658 D CameraManager2: GotArray:4
+05-24 21:13:45.758 25658 25658 D CameraManager2: GotArray:6
+05-24 21:13:45.764 25658 25658 D CameraManager2: GotArray:0
+05-24 21:13:45.764 25658 25658 D CameraManager2: GotArray:1
+05-24 21:13:45.764 25658 25658 D CameraManager2: GotArray:2
+05-24 21:13:45.764 25658 25658 D CameraManager2: GotArray:3
+05-24 21:13:45.764 25658 25658 D CameraManager2: GotArray:4
+05-24 21:13:45.764 25658 25658 D CameraManager2: GotArray:6
+05-24 21:13:45.774 25658 25658 D CameraManager2: GotArray:0
+05-24 21:13:45.774 25658 25658 D CameraManager2: GotArray:1
+05-24 21:13:45.774 25658 25658 D CameraManager2: GotArray:2
+05-24 21:13:45.774 25658 25658 D CameraManager2: GotArray:3
+05-24 21:13:45.774 25658 25658 D CameraManager2: GotArray:4
+05-24 21:13:45.774 25658 25658 D CameraManager2: GotArray:6
+05-24 21:13:45.775 25658 25840 W CAM_A   : BufferFlinger is not available. Aborting display.
+05-24 21:13:45.779 25658 25658 D CameraManager2: GotArray:0
+05-24 21:13:45.779 25658 25658 D CameraManager2: GotArray:1
+05-24 21:13:45.779 25658 25658 D CameraManager2: GotArray:2
+05-24 21:13:45.779 25658 25658 D CameraManager2: GotArray:3
+05-24 21:13:45.779 25658 25658 D CameraManager2: GotArray:4
+05-24 21:13:45.779 25658 25658 D CameraManager2: GotArray:6
+05-24 21:13:45.796 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:45.797 25658 25715 W CAM_A   : UNINITIALIZED > abs Δ(result sensor timestamp) = 75.11 ms > 70.00 ms
+05-24 21:13:45.797 25658 25715 W CAM_A   : UNINITIALIZED > result sensor delay = 1.28 > 1.10
+05-24 21:13:45.829 25658 25687 I Quality : stackInfo :----- pid 25658 at 2024-05-24 21:13:45.827 -----;Cmd line: com.google.android.GoogleCameraLMC;"main" prio=5 tid=2 RUNNABLE sysTid=25658;  at android.graphics.Paint.nGetTextAdvances(Native Method);  at android.graphics.Paint.measureText(Paint.java:2290);  at android.graphics.Paint.measureText(Paint.java:2311);  at jom.<init>(Unknown Source:251);  at fwl.d(Unknown Source:39);  at fwl.<init>(Unknown Source:5);  at bqr.get(Unknown Source:260);  at pyr.get(Unknown Source:13);  at exj.get(Unknown Source:402);  at pyr.get(Unknown Source:13);  at pyq.get(Unknown Source:4);  at eur.D(Unknown Source:87);  at eur.v(Unknown Source:439);  at btj.d(Unknown Source:26);  at btj.a(Unknown Source:0);  at cak.run(Unknown Source:2);  at bwx.run(Unknown Source:82);  at android.os.Handler.handleCallback(Handler.java:938);  at android.os.Handler.dispatchMessage(Handler.java:99);  at android.os.Looper.loopOnce(Looper.java:233);  at android.os.Looper.loop(Looper.java:344);  at android.app.ActivityThread.main(ActivityThread.java:8249);  at java.lang.reflect.Method.invoke(Native Method);  at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:589);  at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1071);
+05-24 21:13:45.830 25658 25840 W CAM_A   : BufferFlinger is not available. Aborting display.
+05-24 21:13:45.860 25658 25685 I tflite  : Initialized TensorFlow Lite runtime.
+05-24 21:13:45.873 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:45.879 25658 25715 W CAM_A   : UNINITIALIZED > result sensor delay = 1.34 > 1.10
+05-24 21:13:45.883 25658 25658 W CAM_A   : ModeSwitcher WAS ALREADY ENABLED!
+05-24 21:13:45.888 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:45.890 25658 25840 W CAM_A   : BufferFlinger is not available. Aborting display.
+05-24 21:13:45.894 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:45.895 25658 25658 D CameraManager2: GotArray:0
+05-24 21:13:45.895 25658 25658 D CameraManager2: GotArray:1
+05-24 21:13:45.895 25658 25658 D CameraManager2: GotArray:2
+05-24 21:13:45.895 25658 25658 D CameraManager2: GotArray:3
+05-24 21:13:45.895 25658 25658 D CameraManager2: GotArray:4
+05-24 21:13:45.895 25658 25658 D CameraManager2: GotArray:6
+05-24 21:13:45.898 25658 25852 D libMEOW : meow new tls: 0x7e5015eb00
+05-24 21:13:45.898 25658 25852 D libMEOW : applied 1 plugins for [com.google.android.GoogleCameraLMC]:
+05-24 21:13:45.899 25658 25852 D libMEOW :   plugin 1: [libMEOW_gift.so]: 0xb400007ed6459940
+05-24 21:13:45.899 25658 25852 D libMEOW : rebuild call chain: 0x7e5016d500
+05-24 21:13:45.901 25658 25658 D CameraManager2: GotArray:0
+05-24 21:13:45.901 25658 25658 D CameraManager2: GotArray:1
+05-24 21:13:45.901 25658 25658 D CameraManager2: GotArray:2
+05-24 21:13:45.901 25658 25658 D CameraManager2: GotArray:3
+05-24 21:13:45.901 25658 25658 D CameraManager2: GotArray:4
+05-24 21:13:45.901 25658 25658 D CameraManager2: GotArray:6
+05-24 21:13:45.909 25658 25854 D libMEOW : meow new tls: 0x7e3759a0c0
+05-24 21:13:45.909 25658 25685 W libc    : Access denied finding property "ro.hardware.chipname"
+05-24 21:13:45.910 25658 25854 D libMEOW : applied 1 plugins for [com.google.android.GoogleCameraLMC]:
+05-24 21:13:45.910 25658 25854 D libMEOW :   plugin 1: [libMEOW_gift.so]: 0xb400007ed6459940
+05-24 21:13:45.911 25658 25854 D libMEOW : rebuild call chain: 0x7e375b3540
+05-24 21:13:45.912 25658 25658 D CameraManager2: GotArray:0
+05-24 21:13:45.912 25658 25658 D CameraManager2: GotArray:1
+05-24 21:13:45.912 25658 25658 D CameraManager2: GotArray:2
+05-24 21:13:45.912 25658 25658 D CameraManager2: GotArray:3
+05-24 21:13:45.912 25658 25658 D CameraManager2: GotArray:4
+05-24 21:13:45.912 25658 25658 D CameraManager2: GotArray:6
+05-24 21:13:45.921 25658 25855 D libMEOW : meow new tls: 0x7e4fc5bd80
+05-24 21:13:45.921 25658 25855 D libMEOW : applied 1 plugins for [com.google.android.GoogleCameraLMC]:
+05-24 21:13:45.921 25658 25855 D libMEOW :   plugin 1: [libMEOW_gift.so]: 0xb400007ed6459940
+05-24 21:13:45.922 25658 25855 D libMEOW : rebuild call chain: 0x7e4fc6a3c0
+05-24 21:13:45.925 25658 25852 D libMEOW : meow delete tls: 0x7e5015eb00
+05-24 21:13:45.928 25658 25685 I tflite  : Created TensorFlow Lite XNNPACK delegate for CPU.
+05-24 21:13:45.929 25658 25854 E native  : E0524 21:13:45.928266   25854 resource_util_android.cc:65] generic::internal: RET_CHECK failure (third_party/mediapipe/util/resource_util_android.cc:65) Singleton<AssetManager>::get()->ReadFile(path, output) could not read asset: research/vision/loco/video/models/siamese_fcpp/mobile/model_21086792_30/siamese_fe.tflite
+05-24 21:13:45.929 25658 25854 E native  : Stack trace:
+05-24 21:13:45.929 25658 25854 E native  : 
+05-24 21:13:45.929 25658 25685 I tflite  : Replacing 5 node(s) with delegate (TfLiteXNNPackDelegate) node, yielding 1 partitions.
+05-24 21:13:45.929 25658 25854 E native  : E0524 21:13:45.929257   25854 asset_manager_util.cc:166] generic::internal: RET_CHECK failure (third_party/mediapipe/util/android/asset_manager_util.cc:166) ReadFile(asset_path, &asset_data) could not read asset: research/vision/loco/video/models/siamese_fcpp/mobile/model_21086792_30/siamese_fe.tflite
+05-24 21:13:45.929 25658 25854 E native  : Stack trace:
+05-24 21:13:45.929 25658 25854 E native  : 
+05-24 21:13:45.947 25658 25854 I tflite  : Initialized TensorFlow Lite runtime.
+05-24 21:13:45.948 25658 25854 I tflite  : Replacing 26 node(s) with delegate (unknown) node, yielding 1 partitions.
+05-24 21:13:45.950 25658 25697 D ListServiceUtils: mListServiceUtils::init CallingPid 25658
+05-24 21:13:45.952 25658 25697 D ListServiceUtils: mListServiceUtils::init this 0x7e50010600
+05-24 21:13:45.952 25658 25697 V ListServiceUtils: checkInListByUid start module:custom-icc uid:10742  time 74803461863us
+05-24 21:13:45.953 25658 25697 V ListServiceUtils: checkInListByUid end module:custom-icc uid:10742  time 74803462473us
+05-24 21:13:45.953 25658 25697 D ListServiceUtils: checkInListByUid module:custom-icc uid:10742 cost 609us return 0
+05-24 21:13:45.954 25658 25854 I tflite  : Replacing 26 node(s) with delegate (unknown) node, yielding 1 partitions.
+05-24 21:13:45.956 25658 25697 V ListServiceUtils: checkInListByUid module:image-processing uid:10742 cost 2564us return (null)
+05-24 21:13:45.956 25658 25697 E ListServiceUtils: checkInListByUid module:image-processing uid:10742 cost 2564us return (null)
+05-24 21:13:45.956 25658 25697 V JpegEncoderExtImpl: Resolution: 324 x 243,support: 0;
+05-24 21:13:45.992 25658 25658 E ANR_LOG : >>> msg's executing time is too long
+05-24 21:13:45.993 25658 25658 E ANR_LOG : Blocked msg = { when=-3s335ms what=0 target=android.os.Handler callback=bwx } , cost  = 3167 ms
+05-24 21:13:45.993 25658 25658 E ANR_LOG : >>>Current msg List is:
+05-24 21:13:45.993 25658 25658 E ANR_LOG : Current msg <1> = { when=-20h46m43s501ms what=0 target=android.view.ViewRootImpl$ViewRootHandler callback=android.view.View$$ExternalSyntheticLambda3 }
+05-24 21:13:45.993 25658 25658 E ANR_LOG : Current msg <2> = { when=-20h46m43s501ms what=0 target=android.view.ViewRootImpl$ViewRootHandler callback=android.view.View$$ExternalSyntheticLambda3 }
+05-24 21:13:45.993 25658 25658 E ANR_LOG : Current msg <3> = { when=-20h46m43s501ms what=0 target=android.view.ViewRootImpl$ViewRootHandler callback=android.view.View$$ExternalSyntheticLambda3 }
+05-24 21:13:45.993 25658 25658 E ANR_LOG : Current msg <4> = { when=-20h46m43s501ms what=0 target=android.view.ViewRootImpl$ViewRootHandler callback=android.view.View$$ExternalSyntheticLambda3 }
+05-24 21:13:45.993 25658 25658 E ANR_LOG : Current msg <5> = { when=-3s335ms what=0 target=android.os.Handler callback=bwx }
+05-24 21:13:45.993 25658 25658 E ANR_LOG : Current msg <6> = { when=-3s335ms what=0 target=android.os.Handler callback=bwx }
+05-24 21:13:45.993 25658 25658 E ANR_LOG : Current msg <7> = { when=-3s335ms what=0 target=android.os.Handler callback=bwx }
+05-24 21:13:45.993 25658 25658 E ANR_LOG : Current msg <8> = { when=-3s335ms what=0 target=android.os.Handler callback=bwx }
+05-24 21:13:45.993 25658 25658 E ANR_LOG : Current msg <9> = { when=-3s335ms what=0 target=android.os.Handler callback=bwx }
+05-24 21:13:45.993 25658 25658 E ANR_LOG : Current msg <10> = { when=-3s335ms what=0 target=android.os.Handler callback=bwx }
+05-24 21:13:45.993 25658 25658 E ANR_LOG : >>>CURRENT MSG DUMP OVER<<<
+05-24 21:13:45.995 25658 25686 I Quality : Blocked msg = Package name: com.google.android.GoogleCameraLMC [ schedGroup: 5 schedPolicy: 0 ] process the message: { when=-3s336ms what=0 target=android.os.Handler callback=bwx } took 3168 ms
+05-24 21:13:45.998 25658 25682 V SystemSensorManagerExtImpl: unRegisterListener by hpi and its name is ROTATION_VECTOR
+05-24 21:13:46.000 25658 25658 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:46.002 25658 25658 I Choreographer: Skipped 200 frames!  The application may be doing too much work on its main thread.
+05-24 21:13:46.002 25658 25658 I Quality : Skipped: false 200 cost 3335.603 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:46.002 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 200 true
+05-24 21:13:46.080 25658 25840 W CAM_A   : BufferFlinger is not available. Aborting display.
+05-24 21:13:46.103 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:46.111 25658 25715 W CAM_A   : UNINITIALIZED > abs Δ(result sensor timestamp) = 175.39 ms > 70.00 ms
+05-24 21:13:46.112 25658 25715 W CAM_A   : UNINITIALIZED > rel Δ(result sensor timestamp) = 2.50 > 0.25
+05-24 21:13:46.112 25658 25715 W CAM_A   : UNINITIALIZED > result sensor delay = 3.00 > 1.10
+05-24 21:13:46.139 25658 25658 I DeezNuts: MSG: SLIDER 1 FOCUS: 1.0E-4
+05-24 21:13:46.139 25658 25658 I ProReC  : setprogres0
+05-24 21:13:46.139 25658 25658 I DeezNuts: MSG: SLIDER 0 IDX: 0
+05-24 21:13:46.139 25658 25658 I ProReC  : setprogres_iso0
+05-24 21:13:46.140 25658 25658 I za.defcomk.prorec.cust2.RotSeek: setprogres_iso0
+05-24 21:13:46.143 25658 25840 W CAM_A   : BufferFlinger is not available. Aborting display.
+05-24 21:13:46.144 25658 25658 W View    : requestLayout() improperly called by com.google.android.material.button.MaterialButton{88347f8 VFED..C.. ......I. 0,0-0,0 #7f0b000b app:id/AuxButtonMain} during layout: running second layout pass
+05-24 21:13:46.144 25658 25658 W View    : requestLayout() improperly called by com.google.android.material.button.MaterialButton{1a364d1 VFED..C.. ......I. 0,0-0,0 #7f0b0032 app:id/AuxButtonTele} during layout: running second layout pass
+05-24 21:13:46.144 25658 25658 W View    : requestLayout() improperly called by com.google.android.material.button.MaterialButton{5efcb36 VFED..C.. ......I. 0,0-0,0 #7f0b0033 app:id/AuxButtonWide} during layout: running second layout pass
+05-24 21:13:46.157 25658 25685 I Manager : DeviceManager::DeviceManager
+05-24 21:13:46.160 25658 25685 I Manager : findAvailableDevices
+05-24 21:13:46.187 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:46.189 25658 25715 W CAM_A   : UNINITIALIZED > rel Δ(result sensor timestamp) = 0.67 > 0.25
+05-24 21:13:46.208 25658 25685 I tflite  : Created TensorFlow Lite delegate for NNAPI.
+05-24 21:13:46.211 25658 25685 I acceleration: ModifyGraphWithDelegate model namespace: unknown_namespace model id: unknown_model_id accelerator name: NNAPI:
+05-24 21:13:46.218 25658 25658 I BufferQueueConsumer: [](id:643a00000004,api:0,p:-1,c:25658) connect: controlledByApp=false
+05-24 21:13:46.219 25658 25658 I BLASTBufferQueue: [SurfaceView[com.google.android.GoogleCameraLMC/com.android.camera.CameraLauncher]#1] constructor()
+05-24 21:13:46.257 25658 25699 V SystemSensorManagerExtImpl: RegisterListener sc7a20 ACCELEROMETER type:1 delay:200000us by android.view.OrientationEventListener$SensorEventListenerImpl
+05-24 21:13:46.257 25658 25699 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:46.328 25658 25840 W CAM_A   : BufferFlinger is not available. Aborting display.
+05-24 21:13:46.354 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:46.357 25658 25715 W CAM_A   : UNINITIALIZED > abs Δ(result sensor timestamp) = 200.35 ms > 70.00 ms
+05-24 21:13:46.363 25658 25715 W CAM_A   : UNINITIALIZED > rel Δ(result sensor timestamp) = 2.43 > 0.25
+05-24 21:13:46.364 25658 25715 W CAM_A   : UNINITIALIZED > result sensor delay = 3.00 > 1.10
+05-24 21:13:46.368 25658 25822 I OpenGLRenderer: Davey! duration=3676ms; Flags=0, FrameTimelineVsyncId=4089861, IntendedVsync=74800175574684, Vsync=74803508908084, InputEventId=0, HandleInputStart=74803511850380, AnimationStart=74803511852534, PerformTraversalsStart=74803512564611, DrawStart=74803738690380, FrameDeadline=74800212241351, FrameInterval=74803511177534, FrameStartTime=16666667, SyncQueued=74803778138380, SyncStart=74803778287303, IssueDrawCommandsStart=74803785572611, SwapBuffers=74803847498688, FrameCompleted=74803851846380, DequeueBufferDuration=5299692, QueueBufferDuration=3173538, GpuCompleted=74803851468919, SwapBuffersCompleted=74803851846380, DisplayPresentTime=0, 
+05-24 21:13:46.374 25658 25682 W ProtoDataStoreFlagStore: Unable to retrieve flag snapshot for com.google.android.libraries.performance.primes#com.google.android.GoogleCameraLMC, using defaults.
+05-24 21:13:46.475 25658 25840 W CAM_A   : BufferFlinger is not available. Aborting display.
+05-24 21:13:46.479 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:46.481 25658 25715 W CAM_A   : UNINITIALIZED > abs Δ(result sensor timestamp) = 133.56 ms > 70.00 ms
+05-24 21:13:46.481 25658 25715 W CAM_A   : UNINITIALIZED > rel Δ(result sensor timestamp) = 0.33 > 0.25
+05-24 21:13:46.482 25658 25715 W CAM_A   : UNINITIALIZED > result sensor delay = 1.78 > 1.10
+05-24 21:13:46.622 25658 25840 W CAM_A   : BufferFlinger is not available. Aborting display.
+05-24 21:13:46.639 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:46.640 25658 25715 W CAM_A   : UNINITIALIZED > abs Δ(result sensor timestamp) = 150.24 ms > 70.00 ms
+05-24 21:13:46.641 25658 25715 W CAM_A   : UNINITIALIZED > result sensor delay = 2.00 > 1.10
+05-24 21:13:46.775 25658 25840 W CAM_A   : BufferFlinger is not available. Aborting display.
+05-24 21:13:46.819 25658 25658 W GcaGeneric-1: type=1400 audit(0.0:15053): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraLMC/files/libpatched_jni.so" dev="dm-33" ino=1296126 scontext=u:r:untrusted_app_29:s0:c230,c258,c512,c768 tcontext=u:object_r:app_data_file:s0:c230,c258,c512,c768 tclass=file app=com.google.android.GoogleCameraLMC
+05-24 21:13:46.823 25658 25658 W GoogleCameraLMC: type=1400 audit(0.0:15054): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraLMC/files/libpatched_jni.so" dev="dm-33" ino=1296126 scontext=u:r:untrusted_app_29:s0:c230,c258,c512,c768 tcontext=u:object_r:app_data_file:s0:c230,c258,c512,c768 tclass=file app=com.google.android.GoogleCameraLMC
+05-24 21:13:46.831 25658 25658 W GoogleCameraLMC: type=1400 audit(0.0:15055): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraLMC/files/libpatched_jni.so" dev="dm-33" ino=1296126 scontext=u:r:untrusted_app_29:s0:c230,c258,c512,c768 tcontext=u:object_r:app_data_file:s0:c230,c258,c512,c768 tclass=file app=com.google.android.GoogleCameraLMC
+05-24 21:13:46.839 25658 25685 W CAM_CameraDeviceVerifie: Tag CameraDeviceVerifier is 1 chars longer than limit.
+05-24 21:13:46.835 25658 25658 W 00UiWorker: type=1400 audit(0.0:15056): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraLMC/files/libpatched_jni.so" dev="dm-33" ino=1296126 scontext=u:r:untrusted_app_29:s0:c230,c258,c512,c768 tcontext=u:object_r:app_data_file:s0:c230,c258,c512,c768 tclass=file app=com.google.android.GoogleCameraLMC
+05-24 21:13:46.843 25658 25685 D CameraManager2: GotArray:0
+05-24 21:13:46.843 25658 25685 D CameraManager2: GotArray:1
+05-24 21:13:46.843 25658 25685 D CameraManager2: GotArray:2
+05-24 21:13:46.844 25658 25685 D CameraManager2: GotArray:3
+05-24 21:13:46.844 25658 25685 D CameraManager2: GotArray:4
+05-24 21:13:46.844 25658 25685 D CameraManager2: GotArray:6
+05-24 21:13:46.849 25658 25701 D CameraManager2: GotArray:0
+05-24 21:13:46.850 25658 25701 D CameraManager2: GotArray:1
+05-24 21:13:46.850 25658 25701 D CameraManager2: GotArray:2
+05-24 21:13:46.850 25658 25701 D CameraManager2: GotArray:3
+05-24 21:13:46.850 25658 25701 D CameraManager2: GotArray:4
+05-24 21:13:46.850 25658 25701 D CameraManager2: GotArray:6
+05-24 21:13:46.851 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:46.852 25658 25715 W CAM_A   : UNINITIALIZED > abs Δ(result sensor timestamp) = 150.23 ms > 70.00 ms
+05-24 21:13:46.859 25658 25658 W 00UiWorker: type=1400 audit(0.0:15057): avc: granted { execute } for path="/data/user/0/com.google.android.GoogleCameraLMC/files/libpatched_jni.so" dev="dm-33" ino=1296126 scontext=u:r:untrusted_app_29:s0:c230,c258,c512,c768 tcontext=u:object_r:app_data_file:s0:c230,c258,c512,c768 tclass=file app=com.google.android.GoogleCameraLMC
+05-24 21:13:46.853 25658 25715 W CAM_A   : UNINITIALIZED > result sensor delay = 2.00 > 1.10
+05-24 21:13:46.873 25658 25854 D OPENCL_ICD_LOADER: initCLTraceLevel sCLTraceLevel = 0
+05-24 21:13:46.874 25658 25854 D OPENCL_ICD_LOADER: initCLTraceLevel CL_TARGET_OPENCL_VERSION = 300
+05-24 21:13:46.882 25658 25658 D CameraManager2: GotArray:0
+05-24 21:13:46.882 25658 25658 D CameraManager2: GotArray:1
+05-24 21:13:46.882 25658 25658 D CameraManager2: GotArray:2
+05-24 21:13:46.882 25658 25658 D CameraManager2: GotArray:3
+05-24 21:13:46.882 25658 25658 D CameraManager2: GotArray:4
+05-24 21:13:46.882 25658 25658 D CameraManager2: GotArray:6
+05-24 21:13:46.890 25658 25658 W CAM_A   : ModeSwitcher WAS ALREADY ENABLED!
+05-24 21:13:46.943 25658 25658 I Choreographer: Skipped 55 frames!  The application may be doing too much work on its main thread.
+05-24 21:13:46.943 25658 25658 I Quality : Skipped: false 55 cost 925.924 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:46.943 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 55 true
+05-24 21:13:46.970 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:46.972 25658 25715 W CAM_A   : UNINITIALIZED > abs Δ(result sensor timestamp) = 150.23 ms > 70.00 ms
+05-24 21:13:46.973 25658 25715 W CAM_A   : UNINITIALIZED > result sensor delay = 2.00 > 1.10
+05-24 21:13:47.015 25658 25671 I OpenGLRenderer: Davey! duration=989ms; Flags=0, FrameTimelineVsyncId=4090114, IntendedVsync=74803526922977, Vsync=74804443589662, InputEventId=0, HandleInputStart=74804453149226, AnimationStart=74804453152303, PerformTraversalsStart=74804454700303, DrawStart=74804471722380, FrameDeadline=74803563589644, FrameInterval=74804452846996, FrameStartTime=16666667, SyncQueued=74804484102996, SyncStart=74804484239072, IssueDrawCommandsStart=74804496094457, SwapBuffers=74804513954688, FrameCompleted=74804516653842, DequeueBufferDuration=11930385, QueueBufferDuration=1833539, GpuCompleted=74804516653842, SwapBuffersCompleted=74804516653842, DisplayPresentTime=0, 
+05-24 21:13:47.069 25658 25658 I Quality : Skipped: false 7 cost 117.77836 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:47.069 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 7 true
+05-24 21:13:47.101 25658 25683 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:47.142 25658 25658 I Quality : Skipped: false 3 cost 57.1962 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:47.142 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 3 true
+05-24 21:13:47.156 25658 25685 W CAM_A   : Extractor (frame) of type feature.acmi.imu.frame-straightness depends on foreign type feature.acmi.imu.camera-orientation! Feature values may be calculated out of order!
+05-24 21:13:47.157 25658 25685 W CAM_A   : Extractor (frame) of type feature.acmi.imu.frame-straightness depends on foreign type feature.acmi.imu.camera-orientation! Feature values may be calculated out of order!
+05-24 21:13:47.157 25658 25685 V SystemSensorManagerExtImpl: RegisterListener oem-pseudo-gyro type:4 delay:0us by lxf
+05-24 21:13:47.157 25658 25685 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:47.205 25658 25685 V SystemSensorManagerExtImpl: RegisterListener sc7a20 ACCELEROMETER type:1 delay:200000us by ftr
+05-24 21:13:47.206 25658 25685 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:47.221 25658 25685 V SystemSensorManagerExtImpl: RegisterListener oem-pseudo-gyro type:4 delay:200000us by ftr
+05-24 21:13:47.224 25658 25658 I Quality : Skipped: true 4 cost 72.81442 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:47.224 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 4 true
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: Unable to update local snapshot for com.google.android.libraries.performance.primes#com.google.android.GoogleCameraLMC, may result in stale flags.
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: java.util.concurrent.ExecutionException: java.lang.SecurityException: GoogleCertificatesRslt: not allowed: pkg=com.google.android.GoogleCameraLMC, sha256=[a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc], atk=false, ver=241616038.true (go/gsrlt)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at pfx.s(Unknown Source:20)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at pfx.get(Unknown Source:21)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at plk.I(Unknown Source:1)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at plk.ad(Unknown Source:9)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at nfm.d(Unknown Source:0)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at ngq.run(Unknown Source:9)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:307)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at java.lang.Thread.run(Thread.java:1012)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: Caused by: java.lang.SecurityException: GoogleCertificatesRslt: not allowed: pkg=com.google.android.GoogleCameraLMC, sha256=[a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc], atk=false, ver=241616038.true (go/gsrlt)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:2485)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at android.os.Parcel.createException(Parcel.java:2469)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at android.os.Parcel.readException(Parcel.java:2452)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at android.os.Parcel.readException(Parcel.java:2394)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at bmn.z(Unknown Source:10)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at ktz.a(Unknown Source:38)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at kjd.f(Unknown Source:10)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at kkc.t(Unknown Source:9)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at kkc.u(Unknown Source:22)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at kkc.g(Unknown Source:29)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at kkc.h(Unknown Source:76)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at kkc.b(Unknown Source:14)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at klz.c(Unknown Source:114)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at klt.d(Unknown Source:6)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at klu.handleMessage(Unknown Source:307)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at ksg.b(Unknown Source:0)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at ksg.dispatchMessage(Unknown Source:0)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at android.os.Looper.loopOnce(Looper.java:233)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at android.os.Looper.loop(Looper.java:344)
+05-24 21:13:47.233 25658 25903 W ProtoDataStoreFlagStore: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+05-24 21:13:47.269 25658 25993 D libMEOW : meow new tls: 0x7e36cb7f80
+05-24 21:13:47.269 25658 25993 D libMEOW : applied 1 plugins for [com.google.android.GoogleCameraLMC]:
+05-24 21:13:47.269 25658 25993 D libMEOW :   plugin 1: [libMEOW_gift.so]: 0xb400007ed6459940
+05-24 21:13:47.270 25658 25993 D libMEOW : rebuild call chain: 0x7e36c6d100
+05-24 21:13:47.319 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:47.323 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 300.47 ms > 70.00 ms
+05-24 21:13:47.324 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1.00 > 0.25
+05-24 21:13:47.325 25658 25715 W CAM_A   : PHOTO > result sensor delay = 3.99 > 1.10
+05-24 21:13:47.418 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:47.419 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 150.23 ms > 70.00 ms
+05-24 21:13:47.420 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.50 > 0.25
+05-24 21:13:47.421 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.00 > 1.10
+05-24 21:13:47.480 25658 26003 D libMEOW : meow new tls: 0x7ee058e4c0
+05-24 21:13:47.481 25658 26003 D libMEOW : applied 1 plugins for [com.google.android.GoogleCameraLMC]:
+05-24 21:13:47.481 25658 26003 D libMEOW :   plugin 1: [libMEOW_gift.so]: 0xb400007ed6459940
+05-24 21:13:47.481 25658 26003 D libMEOW : rebuild call chain: 0x7ee05a7240
+05-24 21:13:47.491 25658 25979 D GoogleCameraLM: DLEAK reply value=20
+05-24 21:13:47.491 25658 25978 D GoogleCameraLM: DLEAK reply value=20
+05-24 21:13:47.492 25658 25978 D MediaCodecList: DLEAK matchIndex=20
+05-24 21:13:47.492 25658 25979 D MediaCodecList: DLEAK matchIndex=20
+05-24 21:13:47.492 25658 25978 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-24 21:13:47.493 25658 25979 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-24 21:13:47.494 25658 25978 D MediaCodecList: DLEAK matching 'c2.android.vorbis.decoder'
+05-24 21:13:47.494 25658 25979 D MediaCodecList: DLEAK matching 'c2.android.vorbis.decoder'
+05-24 21:13:47.494 25658 25978 D GoogleCameraLM: DLEAK reply value=30
+05-24 21:13:47.494 25658 25978 D MediaCodecList: DLEAK matchIndex=30
+05-24 21:13:47.495 25658 25978 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-24 21:13:47.495 25658 25978 D MediaCodecList: DLEAK matching 'OMX.google.vorbis.decoder'
+05-24 21:13:47.495 25658 25978 D GoogleCameraLM: DLEAK reply value=-2
+05-24 21:13:47.495 25658 25978 D MediaCodecList: DLEAK matchIndex=18446744073709551614
+05-24 21:13:47.495 25658 25979 D GoogleCameraLM: DLEAK reply value=30
+05-24 21:13:47.495 25658 25979 D MediaCodecList: DLEAK matchIndex=30
+05-24 21:13:47.497 25658 25979 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-24 21:13:47.497 25658 25979 D MediaCodecList: DLEAK matching 'OMX.google.vorbis.decoder'
+05-24 21:13:47.498 25658 25979 D GoogleCameraLM: DLEAK reply value=-2
+05-24 21:13:47.498 25658 25979 D MediaCodecList: DLEAK matchIndex=18446744073709551614
+05-24 21:13:47.504 25658 25978 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:47.510 25658 25979 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:47.533 25658 25979 D OplusCCodec: OplusCCodec [131]: (0x7ee322d680)
+05-24 21:13:47.533 25658 25978 D OplusCCodec: OplusCCodec [131]: (0x7ee04dca40)
+05-24 21:13:47.539 25658 25978 W libc    : Access denied finding property "vendor.oplus.media.vpp.stutter"
+05-24 21:13:47.545 25658 25978 V ListServiceUtils: checkInListByUid module:sr-osie-whitelist uid:10742 cost 6082us return (null)
+05-24 21:13:47.545 25658 25978 E ListServiceUtils: checkInListByUid module:sr-osie-whitelist uid:10742 cost 6082us return (null)
+05-24 21:13:47.546 25658 25979 W libc    : Access denied finding property "vendor.oplus.media.vpp.stutter"
+05-24 21:13:47.547 25658 25979 V ListServiceUtils: checkInListByUid module:sr-osie-whitelist uid:10742 cost 1110us return (null)
+05-24 21:13:47.547 25658 25979 E ListServiceUtils: checkInListByUid module:sr-osie-whitelist uid:10742 cost 1110us return (null)
+05-24 21:13:47.549 25658 26005 D CCodec  : allocate(c2.android.vorbis.decoder)
+05-24 21:13:47.550 25658 26004 D CCodec  : allocate(c2.android.vorbis.decoder)
+05-24 21:13:47.561 25658 26005 I Codec2Client: Available Codec2 services: "default" "software"
+05-24 21:13:47.561 25658 26010 D libMEOW : meow new tls: 0x7e192699c0
+05-24 21:13:47.561 25658 26010 D libMEOW : applied 1 plugins for [com.google.android.GoogleCameraLMC]:
+05-24 21:13:47.561 25658 26010 D libMEOW :   plugin 1: [libMEOW_gift.so]: 0xb400007ed6459940
+05-24 21:13:47.562 25658 26010 D libMEOW : rebuild call chain: 0x7e19282e00
+05-24 21:13:47.588 25658 26004 I CCodec  : setting up 'default' as default (vendor) store
+05-24 21:13:47.589 25658 26005 I CCodec  : setting up 'default' as default (vendor) store
+05-24 21:13:47.648 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:47.667 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 225.35 ms > 70.00 ms
+05-24 21:13:47.667 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.50 > 0.25
+05-24 21:13:47.668 25658 25715 W CAM_A   : PHOTO > result sensor delay = 3.00 > 1.10
+05-24 21:13:47.677 25658 25658 I Quality : Skipped: true 4 cost 75.196045 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:47.677 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 4 true
+05-24 21:13:47.709 25658 25658 I Quality : Skipped: false 1 cost 24.106932 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:47.709 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 1 true
+05-24 21:13:47.749 25658 25658 I Quality : Skipped: true 1 cost 30.744936 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:47.749 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 1 true
+05-24 21:13:47.775 25658 25658 I Quality : Skipped: true 1 cost 23.528105 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:47.775 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 1 true
+05-24 21:13:47.835 25658 26005 I CCodec  : Created component [c2.android.vorbis.decoder]
+05-24 21:13:47.836 25658 26004 I CCodec  : Created component [c2.android.vorbis.decoder]
+05-24 21:13:47.839 25658 25658 I Quality : Skipped: true 2 cost 37.39075 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:47.839 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 2 true
+05-24 21:13:47.842 25658 26004 D CCodecConfig: read media type: audio/vorbis
+05-24 21:13:47.842 25658 26005 D CCodecConfig: read media type: audio/vorbis
+05-24 21:13:47.853 25658 26005 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+05-24 21:13:47.854 25658 26005 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+05-24 21:13:47.855 25658 26005 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+05-24 21:13:47.858 25658 26005 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+05-24 21:13:47.858 25658 26005 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+05-24 21:13:47.859 25658 26005 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+05-24 21:13:47.859 25658 26005 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+05-24 21:13:47.861 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:47.867 25658 26004 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+05-24 21:13:47.868 25658 26004 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+05-24 21:13:47.868 25658 26004 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+05-24 21:13:47.869 25658 26004 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+05-24 21:13:47.869 25658 26004 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+05-24 21:13:47.869 25658 26004 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+05-24 21:13:47.869 25658 26004 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+05-24 21:13:47.872 25658 25658 I Quality : Skipped: true 1 cost 21.280197 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:47.874 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 1 true
+05-24 21:13:47.894 25658 26004 I CCodecConfig: query failed after returning 7 values (BAD_INDEX)
+05-24 21:13:47.894 25658 26004 D CCodecConfig: c2 config diff is Dict {
+05-24 21:13:47.894 25658 26004 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+05-24 21:13:47.894 25658 26004 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 32768
+05-24 21:13:47.894 25658 26004 D CCodecConfig:   c2::u32 input.delay.value = 0
+05-24 21:13:47.894 25658 26004 D CCodecConfig:   string input.media-type.value = "audio/vorbis"
+05-24 21:13:47.894 25658 26004 D CCodecConfig:   string output.media-type.value = "audio/raw"
+05-24 21:13:47.894 25658 26004 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+05-24 21:13:47.894 25658 26004 D CCodecConfig:   c2::u32 raw.sample-rate.value = 48000
+05-24 21:13:47.894 25658 26004 D CCodecConfig: }
+05-24 21:13:47.896 25658 25979 I MediaCodec: [c2.android.vorbis.decoder] configure, format : AMessage(what = 0x00000000) = {
+05-24 21:13:47.896 25658 25979 I MediaCodec:   string mime = "audio/vorbis"
+05-24 21:13:47.896 25658 25979 I MediaCodec:   int64_t durationUs = 282086
+05-24 21:13:47.896 25658 25979 I MediaCodec:   int32_t track-id = 1
+05-24 21:13:47.896 25658 25979 I MediaCodec:   Buffer csd-0 = {
+05-24 21:13:47.896 25658 25979 I MediaCodec:     00000000:  01 76 6f 72 62 69 73 00  00 00 00 01 44 ac 00 00  .vorbis.....D...
+05-24 21:13:47.896 25658 25979 I MediaCodec:     00000010:  00 00 00 00 80 38 01 00  00 00 00 00 b8 01        .....8........
+05-24 21:13:47.896 25658 25979 I MediaCodec:   }
+05-24 21:13:47.896 25658 25979 I MediaCodec:   Buffer *csd-1 = 0x7e5014ef00
+05-24 21:13:47.896 25658 25979 I MediaCodec:   int32_t bitrate = 80000
+05-24 21:13:47.896 25658 25979 I MediaCodec:   int32_t channel-count = 1
+05-24 21:13:47.896 25658 25979 I MediaCodec:   int32_t sample-rate = 44100
+05-24 21:13:47.896 25658 25979 I MediaCodec:   int32_t channel-mask = 1
+05-24 21:13:47.896 25658 25979 I MediaCodec: }
+05-24 21:13:47.897 25658 26004 D MediaCodec: flushMediametrics
+05-24 21:13:47.899 25658 26005 I CCodecConfig: query failed after returning 7 values (BAD_INDEX)
+05-24 21:13:47.899 25658 26005 D CCodecConfig: c2 config diff is Dict {
+05-24 21:13:47.899 25658 26005 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+05-24 21:13:47.899 25658 26005 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 32768
+05-24 21:13:47.899 25658 26005 D CCodecConfig:   c2::u32 input.delay.value = 0
+05-24 21:13:47.899 25658 26005 D CCodecConfig:   string input.media-type.value = "audio/vorbis"
+05-24 21:13:47.899 25658 26005 D CCodecConfig:   string output.media-type.value = "audio/raw"
+05-24 21:13:47.899 25658 26005 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+05-24 21:13:47.899 25658 26005 D CCodecConfig:   c2::u32 raw.sample-rate.value = 48000
+05-24 21:13:47.899 25658 26005 D CCodecConfig: }
+05-24 21:13:47.899 25658 26004 V ListServiceUtils: checkInListByUid module:sr-osie-whitelist uid:10742 cost 531us return (null)
+05-24 21:13:47.899 25658 26004 D OplusCCodec: debug enabled , debugType :0
+05-24 21:13:47.899 25658 26004 V ListServiceUtils: checkInListByUid module:minstance-delay uid:10742 cost 262us return (null)
+05-24 21:13:47.899 25658 26004 D OplusCCodec: [initiateConfigureComponent:L459] OplusFeedbackInfo  mFeedbackID:544976590464
+05-24 21:13:47.900 25658 26004 D CCodec  : [c2.android.vorbis.decoder] buffers are bound to CCodec for this session
+05-24 21:13:47.900 25658 26004 D CCodecConfig: no c2 equivalents for durationUs
+05-24 21:13:47.900 25658 26004 D CCodecConfig: no c2 equivalents for track-id
+05-24 21:13:47.900 25658 26004 D CCodecConfig: no c2 equivalents for csd-1
+05-24 21:13:47.900 25658 26004 D CCodecConfig: no c2 equivalents for channel-mask
+05-24 21:13:47.900 25658 26004 D CCodecConfig: no c2 equivalents for flags
+05-24 21:13:47.901 25658 26004 D CCodecConfig: c2 config diff is   c2::u32 coded.bitrate.value = 80000
+05-24 21:13:47.901 25658 26004 D CCodecConfig:   c2::u32 raw.sample-rate.value = 44100
+05-24 21:13:47.901 25658 25978 I MediaCodec: [c2.android.vorbis.decoder] configure, format : AMessage(what = 0x00000000) = {
+05-24 21:13:47.901 25658 25978 I MediaCodec:   string mime = "audio/vorbis"
+05-24 21:13:47.901 25658 25978 I MediaCodec:   int64_t durationUs = 97083
+05-24 21:13:47.901 25658 25978 I MediaCodec:   int32_t track-id = 1
+05-24 21:13:47.901 25658 25978 I MediaCodec:   Buffer csd-0 = {
+05-24 21:13:47.901 25658 25978 I MediaCodec:     00000000:  01 76 6f 72 62 69 73 00  00 00 00 01 80 bb 00 00  .vorbis.........
+05-24 21:13:47.901 25658 25978 I MediaCodec:     00000010:  00 00 00 00 c0 d4 01 00  00 00 00 00 b8 01        ..............
+05-24 21:13:47.901 25658 25978 I MediaCodec:   }
+05-24 21:13:47.901 25658 25978 I MediaCodec:   Buffer *csd-1 = 0x7e5c521980
+05-24 21:13:47.901 25658 25978 I MediaCodec:   int32_t bitrate = 120000
+05-24 21:13:47.901 25658 25978 I MediaCodec:   int32_t channel-count = 1
+05-24 21:13:47.901 25658 25978 I MediaCodec:   int32_t sample-rate = 48000
+05-24 21:13:47.901 25658 25978 I MediaCodec:   int32_t channel-mask = 1
+05-24 21:13:47.901 25658 25978 I MediaCodec: }
+05-24 21:13:47.902 25658 26005 D MediaCodec: flushMediametrics
+05-24 21:13:47.902 25658 26005 V ListServiceUtils: checkInListByUid module:sr-osie-whitelist uid:10742 cost 270us return (null)
+05-24 21:13:47.903 25658 26005 D OplusCCodec: debug enabled , debugType :0
+05-24 21:13:47.903 25658 26004 W Codec2Client: query -- param skipped: index = 1107298332.
+05-24 21:13:47.903 25658 26004 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+05-24 21:13:47.903 25658 26004 D CCodec  :   int32_t bitrate = 80000
+05-24 21:13:47.903 25658 26004 D CCodec  :   int32_t channel-count = 1
+05-24 21:13:47.903 25658 26004 D CCodec  :   int32_t max-input-size = 32768
+05-24 21:13:47.903 25658 26004 D CCodec  :   string mime = "audio/vorbis"
+05-24 21:13:47.903 25658 26004 D CCodec  :   int32_t sample-rate = 44100
+05-24 21:13:47.903 25658 26004 D CCodec  : }
+05-24 21:13:47.903 25658 26004 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+05-24 21:13:47.903 25658 26004 D CCodec  :   int32_t channel-count = 1
+05-24 21:13:47.903 25658 26004 D CCodec  :   string mime = "audio/raw"
+05-24 21:13:47.903 25658 26004 D CCodec  :   int32_t sample-rate = 44100
+05-24 21:13:47.903 25658 26004 D CCodec  :   int32_t channel-mask = 1
+05-24 21:13:47.903 25658 26004 D CCodec  : }
+05-24 21:13:47.903 25658 26005 V ListServiceUtils: checkInListByUid module:minstance-delay uid:10742 cost 275us return (null)
+05-24 21:13:47.903 25658 26005 D OplusCCodec: [initiateConfigureComponent:L459] OplusFeedbackInfo  mFeedbackID:544929073728
+05-24 21:13:47.903 25658 26005 D CCodec  : [c2.android.vorbis.decoder] buffers are bound to CCodec for this session
+05-24 21:13:47.903 25658 26005 D CCodecConfig: no c2 equivalents for durationUs
+05-24 21:13:47.903 25658 26005 D CCodecConfig: no c2 equivalents for track-id
+05-24 21:13:47.903 25658 26005 D CCodecConfig: no c2 equivalents for csd-1
+05-24 21:13:47.903 25658 26004 I CCodecConfig: query failed after returning 7 values (BAD_INDEX)
+05-24 21:13:47.903 25658 26005 D CCodecConfig: no c2 equivalents for channel-mask
+05-24 21:13:47.903 25658 26005 D CCodecConfig: no c2 equivalents for flags
+05-24 21:13:47.905 25658 26005 D CCodecConfig: c2 config diff is   c2::u32 coded.bitrate.value = 120000
+05-24 21:13:47.905 25658 26004 W Codec2Client: query -- param skipped: index = 1342179345.
+05-24 21:13:47.905 25658 26004 W Codec2Client: query -- param skipped: index = 2415921170.
+05-24 21:13:47.906 25658 26005 W Codec2Client: query -- param skipped: index = 1107298332.
+05-24 21:13:47.906 25658 26005 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+05-24 21:13:47.906 25658 26005 D CCodec  :   int32_t bitrate = 120000
+05-24 21:13:47.906 25658 26005 D CCodec  :   int32_t channel-count = 1
+05-24 21:13:47.906 25658 26005 D CCodec  :   int32_t max-input-size = 32768
+05-24 21:13:47.906 25658 26005 D CCodec  :   string mime = "audio/vorbis"
+05-24 21:13:47.906 25658 26005 D CCodec  :   int32_t sample-rate = 48000
+05-24 21:13:47.906 25658 26005 D CCodec  : }
+05-24 21:13:47.906 25658 26005 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+05-24 21:13:47.906 25658 26005 D CCodec  :   int32_t channel-count = 1
+05-24 21:13:47.906 25658 26005 D CCodec  :   string mime = "audio/raw"
+05-24 21:13:47.906 25658 26005 D CCodec  :   int32_t sample-rate = 48000
+05-24 21:13:47.906 25658 26005 D CCodec  :   int32_t channel-mask = 1
+05-24 21:13:47.906 25658 26005 D CCodec  : }
+05-24 21:13:47.906 25658 26005 I CCodecConfig: query failed after returning 7 values (BAD_INDEX)
+05-24 21:13:47.908 25658 26005 W Codec2Client: query -- param skipped: index = 1342179345.
+05-24 21:13:47.908 25658 26005 W Codec2Client: query -- param skipped: index = 2415921170.
+05-24 21:13:47.909 25658 26005 D C2Store : Using ION
+05-24 21:13:47.916 25658 26005 D CCodecBufferChannel: [c2.android.vorbis.decoder#432] Created input block pool with allocatorID 16 => poolID 17 - OK (0)
+05-24 21:13:47.922 25658 26004 D CCodecBufferChannel: [c2.android.vorbis.decoder#244] Created input block pool with allocatorID 16 => poolID 18 - OK (0)
+05-24 21:13:47.923 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 150.23 ms > 70.00 ms
+05-24 21:13:47.925 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.33 > 0.25
+05-24 21:13:47.925 25658 25658 I Quality : Skipped: true 2 cost 41.05217 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:47.926 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 2 true
+05-24 21:13:47.926 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.00 > 1.10
+05-24 21:13:47.936 25658 26004 I CCodecBufferChannel: [c2.android.vorbis.decoder#244] Created output block pool with allocatorID 16 => poolID 729 - OK
+05-24 21:13:47.937 25658 26004 D CCodecBufferChannel: [c2.android.vorbis.decoder#244] Configured output block pool ids 729 => OK
+05-24 21:13:47.939 25658 26005 I CCodecBufferChannel: [c2.android.vorbis.decoder#432] Created output block pool with allocatorID 16 => poolID 728 - OK
+05-24 21:13:47.939 25658 26005 D CCodecBufferChannel: [c2.android.vorbis.decoder#432] Configured output block pool ids 728 => OK
+05-24 21:13:47.945 25658 26005 E ion     : ioctl c0044901 failed with code -1: Invalid argument
+05-24 21:13:47.959 25658 25978 D SoundPool::Sound: begin to decode(fd=285)
+05-24 21:13:47.959 25658 25658 D OplusScrollToTopManager: This DecorView@41b8589[CameraLauncher] change focus to true
+05-24 21:13:47.960 25658 25979 D SoundPool::Sound: begin to decode(fd=153)
+05-24 21:13:47.960 25658 25658 I Quality : Skipped: true 1 cost 25.528 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:47.960 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 1 true
+05-24 21:13:48.007 25658 25658 I Quality : Skipped: true 1 cost 22.584244 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:48.007 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 1 true
+05-24 21:13:48.088 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:48.109 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 150.23 ms > 70.00 ms
+05-24 21:13:48.110 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.00 > 1.10
+05-24 21:13:48.211 25658 26005 D OplusCCodec: initiateShutdown [531]: (0x7ee04dca40) keepComponentAllocated=1
+05-24 21:13:48.212 25658 26005 D CCodecBufferChannel: [c2.android.vorbis.decoder#432] MediaCodec discarded an unknown buffer
+05-24 21:13:48.213 25658 26005 D CCodecBufferChannel: [c2.android.vorbis.decoder#432] MediaCodec discarded an unknown buffer
+05-24 21:13:48.213 25658 26005 D CCodecBufferChannel: [c2.android.vorbis.decoder#432] MediaCodec discarded an unknown buffer
+05-24 21:13:48.215 25658 25978 D SoundPool::Sound: end to decode (fd=285)
+05-24 21:13:48.216 25658 26005 D OplusCCodec: initiateShutdown [531]: (0x7ee04dca40) keepComponentAllocated=0
+05-24 21:13:48.222 25658 26005 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+05-24 21:13:48.240 25658 25978 D MediaCodec: flushMediametrics
+05-24 21:13:48.245 25658 25978 D OplusCCodec: ~OplusCCodec [146]: (0x7ee04dca40)
+05-24 21:13:48.248 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:48.250 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 300.47 ms > 70.00 ms
+05-24 21:13:48.251 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1.00 > 0.25
+05-24 21:13:48.252 25658 25715 W CAM_A   : PHOTO > result sensor delay = 4.50 > 1.10
+05-24 21:13:48.329 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.329 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.343 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.343 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.363 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:48.364 25658 26004 D OplusCCodec: initiateShutdown [531]: (0x7ee322d680) keepComponentAllocated=1
+05-24 21:13:48.365 25658 26004 D CCodecBufferChannel: [c2.android.vorbis.decoder#244] MediaCodec discarded an unknown buffer
+05-24 21:13:48.365 25658 26004 D CCodecBufferChannel: [c2.android.vorbis.decoder#244] MediaCodec discarded an unknown buffer
+05-24 21:13:48.365 25658 26004 D CCodecBufferChannel: [c2.android.vorbis.decoder#244] MediaCodec discarded an unknown buffer
+05-24 21:13:48.367 25658 25979 D SoundPool::Sound: end to decode (fd=153)
+05-24 21:13:48.367 25658 26004 D OplusCCodec: initiateShutdown [531]: (0x7ee322d680) keepComponentAllocated=0
+05-24 21:13:48.369 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 133.57 ms > 70.00 ms
+05-24 21:13:48.370 25658 26004 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+05-24 21:13:48.374 25658 25979 D MediaCodec: flushMediametrics
+05-24 21:13:48.375 25658 25979 D OplusCCodec: ~OplusCCodec [146]: (0x7ee322d680)
+05-24 21:13:48.378 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.56 > 0.25
+05-24 21:13:48.378 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.00 > 1.10
+05-24 21:13:48.479 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:48.480 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 133.57 ms > 70.00 ms
+05-24 21:13:48.481 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.00 > 1.10
+05-24 21:13:48.501 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.502 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.510 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.510 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.521 25658 25682 W CAM_A   : Framerate metadata does not exist for the video at content://media/external/video/media/1000027780
+05-24 21:13:48.631 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:48.638 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 141.89 ms > 70.00 ms
+05-24 21:13:48.638 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.43 > 1.10
+05-24 21:13:48.652 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.653 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.657 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.657 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.781 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.782 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.785 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:48.787 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.787 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.789 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 125.26 ms > 70.00 ms
+05-24 21:13:48.790 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.50 > 1.10
+05-24 21:13:48.830 25658 25682 W CAM_A   : Framerate metadata does not exist for the video at content://media/external/video/media/1000027779
+05-24 21:13:48.852 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:48.857 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 100.23 ms > 70.00 ms
+05-24 21:13:48.858 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.00 > 1.10
+05-24 21:13:48.873 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.874 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.879 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.879 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.909 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.910 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.914 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.914 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.962 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.963 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.966 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.966 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.967 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.969 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.971 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.971 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:48.974 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:48.975 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 150.34 ms > 70.00 ms
+05-24 21:13:48.976 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.50 > 0.25
+05-24 21:13:48.976 25658 25715 W CAM_A   : PHOTO > result sensor delay = 3.01 > 1.10
+05-24 21:13:49.023 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.023 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.027 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.027 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.029 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.030 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.033 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.033 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.054 25658 25682 W CAM_A   : Framerate metadata does not exist for the video at content://media/external/video/media/1000027778
+05-24 21:13:49.124 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.125 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.130 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.130 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.132 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.132 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.133 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.133 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.143 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.143 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.154 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.155 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.156 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.156 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.157 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:49.158 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.158 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.159 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 100.23 ms > 70.00 ms
+05-24 21:13:49.160 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.33 > 0.25
+05-24 21:13:49.161 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.161 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.161 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.00 > 1.10
+05-24 21:13:49.164 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.164 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.166 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.166 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.193 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:49.195 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 100.23 ms > 70.00 ms
+05-24 21:13:49.196 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.00 > 1.10
+05-24 21:13:49.217 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.217 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.230 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.231 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.253 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.254 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.267 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.267 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.316 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.316 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.317 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.317 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.320 25658 25854 E native  : E0524 21:13:49.320016   25854 resource_util_android.cc:65] generic::internal: RET_CHECK failure (third_party/mediapipe/util/resource_util_android.cc:65) Singleton<AssetManager>::get()->ReadFile(path, output) could not read asset: research/vision/loco/video/models/siamese_fcpp/mobile/model_21086792_30/siamese_end2end.tflite
+05-24 21:13:49.320 25658 25854 E native  : Stack trace:
+05-24 21:13:49.320 25658 25854 E native  : 
+05-24 21:13:49.320 25658 25854 E native  : E0524 21:13:49.320574   25854 asset_manager_util.cc:166] generic::internal: RET_CHECK failure (third_party/mediapipe/util/android/asset_manager_util.cc:166) ReadFile(asset_path, &asset_data) could not read asset: research/vision/loco/video/models/siamese_fcpp/mobile/model_21086792_30/siamese_end2end.tflite
+05-24 21:13:49.320 25658 25854 E native  : Stack trace:
+05-24 21:13:49.320 25658 25854 E native  : 
+05-24 21:13:49.368 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:49.370 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 200.46 ms > 70.00 ms
+05-24 21:13:49.371 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1.00 > 0.25
+05-24 21:13:49.372 25658 25715 W CAM_A   : PHOTO > result sensor delay = 4.01 > 1.10
+05-24 21:13:49.417 25658 25854 I tflite  : Replacing 47 node(s) with delegate (unknown) node, yielding 1 partitions.
+05-24 21:13:49.425 25658 25854 I tflite  : Replacing 47 node(s) with delegate (unknown) node, yielding 1 partitions.
+05-24 21:13:49.444 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:49.445 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.75 > 0.25
+05-24 21:13:49.507 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.508 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.508 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.508 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.592 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:49.595 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 150.34 ms > 70.00 ms
+05-24 21:13:49.597 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 2.00 > 0.25
+05-24 21:13:49.598 25658 25715 W CAM_A   : PHOTO > result sensor delay = 3.01 > 1.10
+05-24 21:13:49.627 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.627 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.627 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.627 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.639 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:49.641 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.67 > 0.25
+05-24 21:13:49.704 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.704 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.704 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.704 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.714 25658 25682 V SystemSensorManagerExtImpl: RegisterListener sc7a20 ACCELEROMETER type:1 delay:200000us by hpe
+05-24 21:13:49.714 25658 25682 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:49.732 25658 25682 V SystemSensorManagerExtImpl: RegisterListener mmc5603 MAGNETOMETER type:2 delay:200000us by hpe
+05-24 21:13:49.781 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:49.782 25658 25685 W Glide   : Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored
+05-24 21:13:49.785 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 150.34 ms > 70.00 ms
+05-24 21:13:49.785 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 2.00 > 0.25
+05-24 21:13:49.786 25658 25715 W CAM_A   : PHOTO > result sensor delay = 3.01 > 1.10
+05-24 21:13:49.796 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.796 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.796 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.797 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.873 25658 25685 D libMEOW : meow new tls: 0x7e07428140
+05-24 21:13:49.873 25658 25685 D libMEOW : applied 1 plugins for [com.google.android.GoogleCameraLMC]:
+05-24 21:13:49.873 25658 25685 D libMEOW :   plugin 1: [libMEOW_gift.so]: 0xb400007ed6459940
+05-24 21:13:49.873 25658 25685 D libMEOW : rebuild call chain: 0x7e074377c0
+05-24 21:13:49.889 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:49.894 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.894 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.905 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.905 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.905 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 108.56 ms > 70.00 ms
+05-24 21:13:49.906 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.28 > 0.25
+05-24 21:13:49.907 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.60 > 1.10
+05-24 21:13:49.943 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.943 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.948 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.949 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:49.961 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:49.966 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 83.59 ms > 70.00 ms
+05-24 21:13:49.968 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.01 > 1.10
+05-24 21:13:50.027 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.027 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.031 25658 25685 V ListServiceUtils: checkInListByUid start module:custom-icc uid:10742  time 74807540328us
+05-24 21:13:50.031 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.031 25658 25685 V ListServiceUtils: checkInListByUid end module:custom-icc uid:10742  time 74807540829us
+05-24 21:13:50.032 25658 25685 D ListServiceUtils: checkInListByUid module:custom-icc uid:10742 cost 500us return 0
+05-24 21:13:50.032 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.033 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.033 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.033 25658 25685 V ListServiceUtils: checkInListByUid module:image-processing uid:10742 cost 1526us return (null)
+05-24 21:13:50.033 25658 25685 E ListServiceUtils: checkInListByUid module:image-processing uid:10742 cost 1526us return (null)
+05-24 21:13:50.033 25658 25685 V JpegEncoderExtImpl: Resolution: 324 x 243,support: 0;
+05-24 21:13:50.035 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.035 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.093 25658 25685 V ListServiceUtils: checkInListByUid start module:custom-icc uid:10742  time 74807602425us
+05-24 21:13:50.095 25658 25685 V ListServiceUtils: checkInListByUid end module:custom-icc uid:10742  time 74807604268us
+05-24 21:13:50.095 25658 25685 D ListServiceUtils: checkInListByUid module:custom-icc uid:10742 cost 1842us return 0
+05-24 21:13:50.095 25658 25685 E ListServiceUtils: checkInListByUid module:custom-icc uid:10742 cost 1842us return 0
+05-24 21:13:50.096 25658 25685 V ListServiceUtils: checkInListByUid module:image-processing uid:10742 cost 267us return (null)
+05-24 21:13:50.096 25658 25685 V JpegEncoderExtImpl: Resolution: 324 x 243,support: 0;
+05-24 21:13:50.098 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.098 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.101 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.101 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.103 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.103 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.108 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.108 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.119 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:50.134 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 125.38 ms > 70.00 ms
+05-24 21:13:50.136 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.50 > 0.25
+05-24 21:13:50.137 25658 25715 W CAM_A   : PHOTO > result sensor delay = 3.01 > 1.10
+05-24 21:13:50.175 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:50.177 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.67 > 0.25
+05-24 21:13:50.185 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.185 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.188 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.188 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.189 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.189 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.191 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.191 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.193 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.193 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.194 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.194 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.200 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.200 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.202 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.202 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.204 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.204 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.208 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.208 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.210 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.210 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.289 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.290 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.294 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.294 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.296 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.296 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.298 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.299 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.305 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.305 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.307 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.307 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.309 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.309 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.332 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:50.334 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 167.17 ms > 70.00 ms
+05-24 21:13:50.336 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 3.00 > 0.25
+05-24 21:13:50.337 25658 25715 W CAM_A   : PHOTO > result sensor delay = 4.01 > 1.10
+05-24 21:13:50.369 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:50.371 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.75 > 0.25
+05-24 21:13:50.381 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.391 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.395 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.395 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.397 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.399 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.401 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.404 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.484 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.484 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.493 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.494 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.537 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:50.539 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 167.17 ms > 70.00 ms
+05-24 21:13:50.543 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.543 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.548 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 3.00 > 0.25
+05-24 21:13:50.548 25658 25715 W CAM_A   : PHOTO > result sensor delay = 4.01 > 1.10
+05-24 21:13:50.559 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.560 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.569 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.569 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.574 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.576 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.585 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.586 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.587 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.588 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.596 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.596 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.640 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:50.642 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 83.59 ms > 70.00 ms
+05-24 21:13:50.643 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.50 > 0.25
+05-24 21:13:50.645 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.01 > 1.10
+05-24 21:13:50.651 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.652 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.659 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.660 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.687 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.687 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.696 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.697 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.710 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:50.712 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 125.38 ms > 70.00 ms
+05-24 21:13:50.713 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.50 > 0.25
+05-24 21:13:50.713 25658 25715 W CAM_A   : PHOTO > result sensor delay = 3.01 > 1.10
+05-24 21:13:50.719 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.719 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.729 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.729 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.746 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.746 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.751 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.752 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.757 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.758 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.758 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.758 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.829 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.829 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.834 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.834 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.874 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.874 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.881 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.881 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.882 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.882 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.883 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.883 25658 25854 E IMGSRV  : :53: GetCmdlineFileContents: Failed to open /proc/987/cmdline (No such file or directory)
+05-24 21:13:50.912 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:50.915 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 125.38 ms > 70.00 ms
+05-24 21:13:50.916 25658 25715 W CAM_A   : PHOTO > result sensor delay = 3.01 > 1.10
+05-24 21:13:50.968 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:50.969 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.67 > 0.25
+05-24 21:13:51.113 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:51.114 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 208.97 ms > 70.00 ms
+05-24 21:13:51.115 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 4.00 > 0.25
+05-24 21:13:51.116 25658 25715 W CAM_A   : PHOTO > result sensor delay = 5.01 > 1.10
+05-24 21:13:51.183 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:51.185 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 83.59 ms > 70.00 ms
+05-24 21:13:51.187 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.60 > 0.25
+05-24 21:13:51.187 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.01 > 1.10
+05-24 21:13:51.368 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:51.369 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 125.38 ms > 70.00 ms
+05-24 21:13:51.372 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.50 > 0.25
+05-24 21:13:51.373 25658 25715 W CAM_A   : PHOTO > result sensor delay = 3.01 > 1.10
+05-24 21:13:51.491 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:51.493 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.67 > 0.25
+05-24 21:13:51.670 25658 25667 I GoogleCameraLM: Background concurrent copying GC freed 598790(26MB) AllocSpace objects, 31(828KB) LOS objects, 49% free, 10MB/20MB, paused 626us,111us total 374.247ms
+05-24 21:13:51.698 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:51.700 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 292.55 ms > 70.00 ms
+05-24 21:13:51.701 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 6.00 > 0.25
+05-24 21:13:51.703 25658 25715 W CAM_A   : PHOTO > result sensor delay = 7.02 > 1.10
+05-24 21:13:51.782 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:51.784 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.86 > 0.25
+05-24 21:13:51.855 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:51.856 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 167.17 ms > 70.00 ms
+05-24 21:13:51.856 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 3.00 > 0.25
+05-24 21:13:51.857 25658 25715 W CAM_A   : PHOTO > result sensor delay = 4.01 > 1.10
+05-24 21:13:52.037 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:52.063 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 125.38 ms > 70.00 ms
+05-24 21:13:52.063 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.25 > 0.25
+05-24 21:13:52.070 25658 25715 W CAM_A   : PHOTO > result sensor delay = 3.01 > 1.10
+05-24 21:13:52.125 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:52.128 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 83.59 ms > 70.00 ms
+05-24 21:13:52.131 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.33 > 0.25
+05-24 21:13:52.131 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.01 > 1.10
+05-24 21:13:52.255 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:52.256 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 167.17 ms > 70.00 ms
+05-24 21:13:52.257 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1.00 > 0.25
+05-24 21:13:52.257 25658 25715 W CAM_A   : PHOTO > result sensor delay = 4.01 > 1.10
+05-24 21:13:52.331 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:52.333 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 83.59 ms > 70.00 ms
+05-24 21:13:52.333 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.50 > 0.25
+05-24 21:13:52.344 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.01 > 1.10
+05-24 21:13:52.538 25658 25658 I Quality : Skipped: true 4 cost 67.72678 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:52.538 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 4 true
+05-24 21:13:52.549 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:52.556 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 208.97 ms > 70.00 ms
+05-24 21:13:52.564 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1.50 > 0.25
+05-24 21:13:52.567 25658 25715 W CAM_A   : PHOTO > result sensor delay = 5.01 > 1.10
+05-24 21:13:52.571 25658 25658 W MediaFsQModule: Returning Q MediaFs implementation
+05-24 21:13:52.645 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:52.646 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.80 > 0.25
+05-24 21:13:52.655 25658 26415 D GoogleCameraLM: DLEAK reply value=20
+05-24 21:13:52.655 25658 26415 D MediaCodecList: DLEAK matchIndex=20
+05-24 21:13:52.655 25658 26415 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-24 21:13:52.656 25658 26415 D MediaCodecList: DLEAK matching 'c2.android.vorbis.decoder'
+05-24 21:13:52.657 25658 26415 D GoogleCameraLM: DLEAK reply value=30
+05-24 21:13:52.657 25658 26415 D MediaCodecList: DLEAK matchIndex=30
+05-24 21:13:52.657 25658 26415 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-24 21:13:52.657 25658 26415 D MediaCodecList: DLEAK matching 'OMX.google.vorbis.decoder'
+05-24 21:13:52.658 25658 26415 D GoogleCameraLM: DLEAK reply value=-2
+05-24 21:13:52.658 25658 26415 D MediaCodecList: DLEAK matchIndex=18446744073709551614
+05-24 21:13:52.660 25658 26415 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:52.670 25658 26415 D OplusCCodec: OplusCCodec [131]: (0x7ee322e480)
+05-24 21:13:52.673 25658 26415 W libc    : Access denied finding property "vendor.oplus.media.vpp.stutter"
+05-24 21:13:52.674 25658 26415 V ListServiceUtils: checkInListByUid module:sr-osie-whitelist uid:10742 cost 576us return (null)
+05-24 21:13:52.680 25658 26417 D CCodec  : allocate(c2.android.vorbis.decoder)
+05-24 21:13:52.686 25658 25658 I Quality : Skipped: false 7 cost 132.61937 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:52.686 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 7 true
+05-24 21:13:52.691 25658 26422 W CAM_PckLongExposureCmd: Capture session not a LongExposureCaptureSession: hqu@cd24884
+05-24 21:13:52.719 25658 26417 I CCodec  : setting up 'default' as default (vendor) store
+05-24 21:13:52.723 25658 26417 I CCodec  : Created component [c2.android.vorbis.decoder]
+05-24 21:13:52.723 25658 26417 D CCodecConfig: read media type: audio/vorbis
+05-24 21:13:52.727 25658 26417 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+05-24 21:13:52.731 25658 26417 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+05-24 21:13:52.732 25658 26417 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+05-24 21:13:52.732 25658 26417 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+05-24 21:13:52.733 25658 26417 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+05-24 21:13:52.733 25658 26417 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+05-24 21:13:52.734 25658 26417 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+05-24 21:13:52.736 25658 26417 I CCodecConfig: query failed after returning 7 values (BAD_INDEX)
+05-24 21:13:52.736 25658 26417 D CCodecConfig: c2 config diff is Dict {
+05-24 21:13:52.736 25658 26417 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+05-24 21:13:52.736 25658 26417 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 32768
+05-24 21:13:52.736 25658 26417 D CCodecConfig:   c2::u32 input.delay.value = 0
+05-24 21:13:52.736 25658 26417 D CCodecConfig:   string input.media-type.value = "audio/vorbis"
+05-24 21:13:52.736 25658 26417 D CCodecConfig:   string output.media-type.value = "audio/raw"
+05-24 21:13:52.736 25658 26417 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+05-24 21:13:52.736 25658 26417 D CCodecConfig:   c2::u32 raw.sample-rate.value = 48000
+05-24 21:13:52.736 25658 26417 D CCodecConfig: }
+05-24 21:13:52.737 25658 26415 I MediaCodec: [c2.android.vorbis.decoder] configure, format : AMessage(what = 0x00000000) = {
+05-24 21:13:52.737 25658 26415 I MediaCodec:   string mime = "audio/vorbis"
+05-24 21:13:52.737 25658 26415 I MediaCodec:   int64_t durationUs = 979791
+05-24 21:13:52.737 25658 26415 I MediaCodec:   int32_t track-id = 1
+05-24 21:13:52.737 25658 26415 I MediaCodec:   Buffer csd-0 = {
+05-24 21:13:52.737 25658 26415 I MediaCodec:     00000000:  01 76 6f 72 62 69 73 00  00 00 00 01 80 bb 00 00  .vorbis.........
+05-24 21:13:52.737 25658 26415 I MediaCodec:     00000010:  ff ff ff ff 00 6b 03 00  ff ff ff ff b8 01        .....k........
+05-24 21:13:52.737 25658 26415 I MediaCodec:   }
+05-24 21:13:52.737 25658 26415 I MediaCodec:   Buffer *csd-1 = 0x7e54810540
+05-24 21:13:52.737 25658 26415 I MediaCodec:   int32_t bitrate = 224000
+05-24 21:13:52.737 25658 26415 I MediaCodec:   int32_t channel-count = 1
+05-24 21:13:52.737 25658 26415 I MediaCodec:   int32_t sample-rate = 48000
+05-24 21:13:52.737 25658 26415 I MediaCodec:   int32_t channel-mask = 1
+05-24 21:13:52.737 25658 26415 I MediaCodec: }
+05-24 21:13:52.739 25658 26417 D MediaCodec: flushMediametrics
+05-24 21:13:52.739 25658 26417 V ListServiceUtils: checkInListByUid module:sr-osie-whitelist uid:10742 cost 434us return (null)
+05-24 21:13:52.740 25658 26417 D OplusCCodec: debug enabled , debugType :0
+05-24 21:13:52.740 25658 26417 V ListServiceUtils: checkInListByUid module:minstance-delay uid:10742 cost 252us return (null)
+05-24 21:13:52.740 25658 26417 D OplusCCodec: [initiateConfigureComponent:L459] OplusFeedbackInfo  mFeedbackID:544976594048
+05-24 21:13:52.740 25658 26417 D CCodec  : [c2.android.vorbis.decoder] buffers are bound to CCodec for this session
+05-24 21:13:52.740 25658 26417 D CCodecConfig: no c2 equivalents for durationUs
+05-24 21:13:52.740 25658 26417 D CCodecConfig: no c2 equivalents for track-id
+05-24 21:13:52.740 25658 26417 D CCodecConfig: no c2 equivalents for csd-1
+05-24 21:13:52.740 25658 26417 D CCodecConfig: no c2 equivalents for channel-mask
+05-24 21:13:52.740 25658 26417 D CCodecConfig: no c2 equivalents for flags
+05-24 21:13:52.741 25658 26417 D CCodecConfig: c2 config diff is   c2::u32 coded.bitrate.value = 224000
+05-24 21:13:52.742 25658 26417 W Codec2Client: query -- param skipped: index = 1107298332.
+05-24 21:13:52.742 25658 26417 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+05-24 21:13:52.742 25658 26417 D CCodec  :   int32_t bitrate = 224000
+05-24 21:13:52.742 25658 26417 D CCodec  :   int32_t channel-count = 1
+05-24 21:13:52.742 25658 26417 D CCodec  :   int32_t max-input-size = 32768
+05-24 21:13:52.742 25658 26417 D CCodec  :   string mime = "audio/vorbis"
+05-24 21:13:52.742 25658 26417 D CCodec  :   int32_t sample-rate = 48000
+05-24 21:13:52.742 25658 26417 D CCodec  : }
+05-24 21:13:52.742 25658 26417 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+05-24 21:13:52.742 25658 26417 D CCodec  :   int32_t channel-count = 1
+05-24 21:13:52.742 25658 26417 D CCodec  :   string mime = "audio/raw"
+05-24 21:13:52.742 25658 26417 D CCodec  :   int32_t sample-rate = 48000
+05-24 21:13:52.742 25658 26417 D CCodec  :   int32_t channel-mask = 1
+05-24 21:13:52.742 25658 26417 D CCodec  : }
+05-24 21:13:52.743 25658 26417 I CCodecConfig: query failed after returning 7 values (BAD_INDEX)
+05-24 21:13:52.758 25658 26417 W Codec2Client: query -- param skipped: index = 1342179345.
+05-24 21:13:52.758 25658 26417 W Codec2Client: query -- param skipped: index = 2415921170.
+05-24 21:13:52.760 25658 26417 D CCodecBufferChannel: [c2.android.vorbis.decoder#48] Created input block pool with allocatorID 16 => poolID 19 - OK (0)
+05-24 21:13:52.763 25658 26417 I CCodecBufferChannel: [c2.android.vorbis.decoder#48] Created output block pool with allocatorID 16 => poolID 730 - OK
+05-24 21:13:52.763 25658 26417 D CCodecBufferChannel: [c2.android.vorbis.decoder#48] Configured output block pool ids 730 => OK
+05-24 21:13:52.763 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:52.765 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 167.17 ms > 70.00 ms
+05-24 21:13:52.766 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 3.00 > 0.25
+05-24 21:13:52.766 25658 25715 W CAM_A   : PHOTO > result sensor delay = 4.01 > 1.10
+05-24 21:13:52.776 25658 25658 I Quality : Skipped: false 4 cost 72.53053 refreshRate 16666667 processName com.google.android.GoogleCameraLMC
+05-24 21:13:52.776 25658 25658 E ActivityThread: asyncReportFrames skippedFrames= 4 true
+05-24 21:13:52.782 25658 26415 D SoundPool::Sound: begin to decode(fd=248)
+05-24 21:13:52.917 25658 26029 D BufferPoolAccessor2.0: bufferpool2 0x7e525c6828 : 0(0 size) total buffers - 0(0 size) used buffers - 1/7 (recycle/alloc) - 6/40 (fetch/transfer)
+05-24 21:13:52.917 25658 26029 D BufferPoolAccessor2.0: evictor expired: 1, evicted: 1
+05-24 21:13:52.924 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:52.925 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 125.38 ms > 70.00 ms
+05-24 21:13:52.926 25658 25715 W CAM_A   : PHOTO > result sensor delay = 3.01 > 1.10
+05-24 21:13:53.054 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:53.057 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 83.59 ms > 70.00 ms
+05-24 21:13:53.057 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.33 > 0.25
+05-24 21:13:53.058 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.01 > 1.10
+05-24 21:13:53.081 25658 25671 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10742; state: DISABLED
+05-24 21:13:53.149 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:53.150 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 167.17 ms > 70.00 ms
+05-24 21:13:53.151 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1.00 > 0.25
+05-24 21:13:53.151 25658 25715 W CAM_A   : PHOTO > result sensor delay = 4.01 > 1.10
+05-24 21:13:53.334 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:53.339 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 167.17 ms > 70.00 ms
+05-24 21:13:53.340 25658 25715 W CAM_A   : PHOTO > result sensor delay = 4.01 > 1.10
+05-24 21:13:53.429 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:53.435 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 83.59 ms > 70.00 ms
+05-24 21:13:53.436 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.50 > 0.25
+05-24 21:13:53.436 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.01 > 1.10
+05-24 21:13:53.525 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:53.527 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 167.17 ms > 70.00 ms
+05-24 21:13:53.528 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1.00 > 0.25
+05-24 21:13:53.529 25658 25715 W CAM_A   : PHOTO > result sensor delay = 4.01 > 1.10
+05-24 21:13:53.575 25658 26417 D OplusCCodec: initiateShutdown [531]: (0x7ee322e480) keepComponentAllocated=1
+05-24 21:13:53.575 25658 26417 D CCodecBufferChannel: [c2.android.vorbis.decoder#48] MediaCodec discarded an unknown buffer
+05-24 21:13:53.575 25658 26417 D CCodecBufferChannel: [c2.android.vorbis.decoder#48] MediaCodec discarded an unknown buffer
+05-24 21:13:53.576 25658 26415 D SoundPool::Sound: end to decode (fd=248)
+05-24 21:13:53.577 25658 26417 D OplusCCodec: initiateShutdown [531]: (0x7ee322e480) keepComponentAllocated=0
+05-24 21:13:53.625 25658 26417 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+05-24 21:13:53.629 25658 26415 D MediaCodec: flushMediametrics
+05-24 21:13:53.642 25658 26415 D OplusCCodec: ~OplusCCodec [146]: (0x7ee322e480)
+05-24 21:13:53.645 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:53.647 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 83.59 ms > 70.00 ms
+05-24 21:13:53.647 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.50 > 0.25
+05-24 21:13:53.647 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.01 > 1.10
+05-24 21:13:53.668 25658 25701 D AudioTrack: INSP: type=audio,case=1,set=0x7e5258e200,stream_type=7,sample_rate=48000,format=0x1,channel_mask=0x1,frame_count=0,flags=0x4,notification_frames=0,session_id=0,transfer_type=0,uid=-1,pid=-1
+05-24 21:13:53.668 25658 25701 D AudioTrack: INSP: type=audio,case=1,attributes=1,content_type=4,usage=13,source=0,flags=0x801
+05-24 21:13:53.668 25658 25701 D AudioTrackExtImpl: AudioTrackExtImpl init
+05-24 21:13:53.668 25658 25701 D AudioTrack: set() streamType 7, sampleRate 48000, format 0x1, channelMask 0x1, frameCount 0, flags #4, notificationFrames 0, sessionId 0, transferType 0, uid -1, pid -1 cbf 1
+05-24 21:13:53.668 25658 25701 D AudioTrack: set(): Building AudioTrack with attributes: usage=13 content=4 flags=0x801 tags=[]
+05-24 21:13:53.669 25658 25701 D AudioTrack: set(): 0x7e5258e200, Create AudioTrackThread, tid = 26467
+05-24 21:13:53.769 25658 25701 I AudioTrack: createTrack_l(9): AUDIO_OUTPUT_FLAG_FAST successful; frameCount 0 -> 47030
+05-24 21:13:53.772 25658 25701 D AudioTrack: createTrack_l(1331): 0x7e5258e200, mCblk = 0x7f8e261000, mLatency = 1021, mAfLatency = 42, frameCount = 47030, mSampleRate = 48000, mFlags = 0x4, mReqFrameCount = 47030, mNotificationFramesAct = 0
+05-24 21:13:53.773 25658 25701 V ListServiceUtils: checkInListByUid module:audio-choppy-boost uid:10742 cost 419us return (null)
+05-24 21:13:53.774 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:53.774 25658 25701 D AudioTrack: setVolume(1331): 0x7e5258e200, left = 0.600000, right = 0.600000
+05-24 21:13:53.774 25658 25701 D AudioTrack: setVolume left 0.600 right 0.600 , callingPid 25658
+05-24 21:13:53.775 25658 25701 D AudioTrack: start(1331): prior state:STATE_STOPPED output 13 stream 7 session 8953
+05-24 21:13:53.775 25658 25701 D AudioTrack: start(1331): 0x7e5258e200, prior state:STATE_STOPPED
+05-24 21:13:53.778 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 125.38 ms > 70.00 ms
+05-24 21:13:53.779 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.50 > 0.25
+05-24 21:13:53.780 25658 25715 W CAM_A   : PHOTO > result sensor delay = 3.01 > 1.10
+05-24 21:13:53.879 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:53.880 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 125.38 ms > 70.00 ms
+05-24 21:13:53.881 25658 25715 W CAM_A   : PHOTO > result sensor delay = 3.01 > 1.10
+05-24 21:13:53.919 25658 26029 D BufferPoolAccessor2.0: bufferpool2 0x7e4fd65a28 : 0(0 size) total buffers - 0(0 size) used buffers - 1/7 (recycle/alloc) - 6/82 (fetch/transfer)
+05-24 21:13:53.919 25658 26029 D BufferPoolAccessor2.0: evictor expired: 1, evicted: 1
+05-24 21:13:54.022 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:54.026 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 125.38 ms > 70.00 ms
+05-24 21:13:54.027 25658 25715 W CAM_A   : PHOTO > result sensor delay = 3.01 > 1.10
+05-24 21:13:54.076 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:54.079 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 83.59 ms > 70.00 ms
+05-24 21:13:54.084 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.33 > 0.25
+05-24 21:13:54.085 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.01 > 1.10
+05-24 21:13:54.234 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:54.236 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 167.17 ms > 70.00 ms
+05-24 21:13:54.237 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 1.00 > 0.25
+05-24 21:13:54.238 25658 25715 W CAM_A   : PHOTO > result sensor delay = 4.01 > 1.10
+05-24 21:13:54.530 25658 26422 W libgcam : [pipeline_manager.cc:799]: AbortShot: Shot aborted by AbortShot() during capture (shot_id = 0).
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: PictureTaker command failed: pih@678f78[status=SUCCESS, result=[got@89ed651]]
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at java.util.Objects.checkIndex(Objects.java:359)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at java.util.ArrayList.get(ArrayList.java:434)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at imd.a(Unknown Source:221)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at lcr.c(Unknown Source:2)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at ldl.h(Unknown Source:2)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at ldk.fA(Unknown Source:8)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at lci.fA(Unknown Source:2)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at ldl.fA(Unknown Source:2)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at lci.fA(Unknown Source:2)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at ldk.fA(Unknown Source:4)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at lci.fA(Unknown Source:2)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at ldl.fA(Unknown Source:2)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at lci.fA(Unknown Source:2)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at gzp.c(Unknown Source:565)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at gzy.c(Unknown Source:152)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at gov.c(Unknown Source:21)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at gop.c(Unknown Source:275)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at gov.c(Unknown Source:21)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at gom.c(Unknown Source:39)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at gou.c(Unknown Source:7)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at got.c(Unknown Source:75)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at gpc.a(Unknown Source:180)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at gia.run(Unknown Source:42)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at pio.a(Unknown Source:2)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at phs.run(Unknown Source:20)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at pip.run(Unknown Source:4)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at java.lang.Thread.run(Thread.java:1012)
+05-24 21:13:54.639 25658 26422 E CAM_PictureTakerImpl: 	at lab.run(Unknown Source:5)
+05-24 21:13:54.641 25658 26422 W CAM_A   : [ShotId-0] Could not cancel MediaStore insertion
+05-24 21:13:54.667 25658 26422 W CAM_A   : onCaptureCanceled-UNKNOWN 116414162384081
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: Shot Exception!
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: dmb: java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at hps.w(Unknown Source:107)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at hqd.w(Unknown Source:2)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at gpc.a(Unknown Source:351)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at gia.run(Unknown Source:42)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at pio.a(Unknown Source:2)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at phs.run(Unknown Source:20)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at pip.run(Unknown Source:4)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at java.lang.Thread.run(Thread.java:1012)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at lab.run(Unknown Source:5)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: Caused by: java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at java.util.Objects.checkIndex(Objects.java:359)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at java.util.ArrayList.get(ArrayList.java:434)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at imd.a(Unknown Source:221)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at lcr.c(Unknown Source:2)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at ldl.h(Unknown Source:2)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at ldk.fA(Unknown Source:8)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at lci.fA(Unknown Source:2)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at ldl.fA(Unknown Source:2)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at lci.fA(Unknown Source:2)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at ldk.fA(Unknown Source:4)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at lci.fA(Unknown Source:2)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at ldl.fA(Unknown Source:2)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at lci.fA(Unknown Source:2)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at gzp.c(Unknown Source:565)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at gzy.c(Unknown Source:152)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at gov.c(Unknown Source:21)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at gop.c(Unknown Source:275)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at gov.c(Unknown Source:21)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at gom.c(Unknown Source:39)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at gou.c(Unknown Source:7)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at got.c(Unknown Source:75)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	at gpc.a(Unknown Source:180)
+05-24 21:13:54.668 25658 26422 W CAM_ShotFailureHdlr: 	... 9 more
+05-24 21:13:54.729 25658 25658 D AndroidRuntime: Shutting down VM
+--------- beginning of crash
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: FATAL EXCEPTION: main
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: Process: com.google.android.GoogleCameraLMC, PID: 25658
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: java.lang.RuntimeException: java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at glt.run(Unknown Source:9)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at bwx.run(Unknown Source:82)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at android.os.Handler.handleCallback(Handler.java:938)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:233)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:344)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:8249)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:589)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1071)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: Caused by: java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at java.util.Objects.checkIndex(Objects.java:359)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at java.util.ArrayList.get(ArrayList.java:434)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at imd.a(Unknown Source:221)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at lcr.c(Unknown Source:2)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at ldl.h(Unknown Source:2)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at ldk.fA(Unknown Source:8)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at lci.fA(Unknown Source:2)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at ldl.fA(Unknown Source:2)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at lci.fA(Unknown Source:2)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at ldk.fA(Unknown Source:4)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at lci.fA(Unknown Source:2)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at ldl.fA(Unknown Source:2)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at lci.fA(Unknown Source:2)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at gzp.c(Unknown Source:565)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at gzy.c(Unknown Source:152)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at gov.c(Unknown Source:21)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at gop.c(Unknown Source:275)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at gov.c(Unknown Source:21)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at gom.c(Unknown Source:39)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at gou.c(Unknown Source:7)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at got.c(Unknown Source:75)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at gpc.a(Unknown Source:180)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at gia.run(Unknown Source:42)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at pio.a(Unknown Source:2)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at phs.run(Unknown Source:20)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at pip.run(Unknown Source:4)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:1012)
+05-24 21:13:54.730 25658 25658 E AndroidRuntime: 	at lab.run(Unknown Source:5)
+05-24 21:13:54.796 25658 26524 W CAM_A   : [ShotId-0] Mediagroup.Listener#onAbandoned: PXL_20240524_211352555 (MediaGroup-0)
+05-24 21:13:54.834 25658 25685 V ListServiceUtils: checkInListByUid start module:custom-icc uid:10742  time 74812343844us
+05-24 21:13:54.841 25658 25685 V ListServiceUtils: checkInListByUid end module:custom-icc uid:10742  time 74812350356us
+05-24 21:13:54.841 25658 25685 D ListServiceUtils: checkInListByUid module:custom-icc uid:10742 cost 6511us return 0
+05-24 21:13:54.841 25658 25685 E ListServiceUtils: checkInListByUid module:custom-icc uid:10742 cost 6511us return 0
+05-24 21:13:54.841 25658 25685 V ListServiceUtils: checkInListByUid module:image-processing uid:10742 cost 495us return (null)
+05-24 21:13:54.842 25658 25685 V JpegEncoderExtImpl: Resolution: 324 x 243,support: 0;
+05-24 21:13:54.846 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:54.849 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 543.31 ms > 70.00 ms
+05-24 21:13:54.851 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 2.25 > 0.25
+05-24 21:13:54.854 25658 25715 W CAM_A   : PHOTO > result sensor delay = 13.03 > 1.10
+05-24 21:13:54.871 26533 26533 I libc    : SetHeapTaggingLevel: tag level set to 0
+05-24 21:13:54.891 26533 26533 E MC:crash_repor: Unknown bits set in runtime_flags: 0x40000000
+05-24 21:13:54.891 26533 26533 I MC:crash_repor: Using CollectorTypeCC GC.
+05-24 21:13:54.908 26533 26533 E MC:crash_repor: Not starting debugger since process cannot load the jdwp agent.
+05-24 21:13:54.931 26533 26533 D ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+05-24 21:13:54.957 25658 26551 D AudioTrack: stop(1331): prior state:STATE_ACTIVE output 13 stream 7 session 8953
+05-24 21:13:54.957 25658 26551 D AudioTrackShared: this(0x7e683c8cc0), mCblk(0x7f8e261000), front(3), mIsOut 1, interrupt() FUTEX_WAKE
+05-24 21:13:54.958 25658 26551 D AudioTrack: stop(1331): 0x7e5258e200 stop done
+05-24 21:13:54.966 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:54.968 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.92 > 0.25
+05-24 21:13:54.992 26533 26533 I OneTrace: Mark active for pid=26533? true
+05-24 21:13:54.993 26533 26533 D cutils-dev: otrace_set_tracing_enabled? true
+05-24 21:13:54.995 26533 26552 D cutils-dev: properties changed in otrace_seq_number_changed!
+05-24 21:13:55.040 26533 26533 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10742; state: DISABLED
+05-24 21:13:55.040 26533 26533 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusAutoResolutionFeature
+05-24 21:13:55.040 26533 26533 I oplus.android.OplusFrameworkFactoryImpl: getOplusAutoResolutionFeature
+05-24 21:13:55.041 26533 26533 D CompactWindowAppManager: initCompactApplicationInfo 
+05-24 21:13:55.059 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:55.065 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 208.97 ms > 70.00 ms
+05-24 21:13:55.066 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 4.00 > 0.25
+05-24 21:13:55.067 25658 25715 W CAM_A   : PHOTO > result sensor delay = 5.01 > 1.10
+05-24 21:13:55.136 26533 26533 W libc    : Access denied finding property "ro.odm.prev.product.name"
+05-24 21:13:55.137 26533 26533 W libc    : Access denied finding property "ro.vendor.oplus.gundam"
+05-24 21:13:55.152 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:55.152 26533 26533 D OplusFeatureConfigManager: Milliseconds spent on initOplusFeatureCache(): 2
+05-24 21:13:55.153 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 125.38 ms > 70.00 ms
+05-24 21:13:55.154 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.40 > 0.25
+05-24 21:13:55.155 26533 26533 D LoadedApk: mApplicationInfo overrideDisplayId:null
+05-24 21:13:55.155 26533 26533 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+05-24 21:13:55.157 25658 25715 W CAM_A   : PHOTO > result sensor delay = 3.01 > 1.10
+05-24 21:13:55.292 26533 26533 D nativeloader: Configuring clns-4 for other apk /data/app/~~A7ao-BmbfBswXYvBmcXQ2w==/com.google.android.GoogleCameraLMC-sdFGM19TpBznXmhQ9_G9Bg==/base.apk. target_sdk_version=29, uses_libraries=, library_path=/data/app/~~A7ao-BmbfBswXYvBmcXQ2w==/com.google.android.GoogleCameraLMC-sdFGM19TpBznXmhQ9_G9Bg==/lib/arm64:/data/app/~~A7ao-BmbfBswXYvBmcXQ2w==/com.google.android.GoogleCameraLMC-sdFGM19TpBznXmhQ9_G9Bg==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.GoogleCameraLMC
+05-24 21:13:55.292 26533 26533 D nativeloader: Extending system_exposed_libraries: libapuwareapusys.mtk.so:libapuwareapusys_v2.mtk.so:libapuwarexrp.mtk.so:libapuwarexrp_v2.mtk.so:libapuwareutils.mtk.so:libapuwareutils_v2.mtk.so:libapuwarehmp.mtk.so:libmcv_runtime_usdk.mtk.so:libneuron_graph_delegate.mtk.so:libneuronusdk_adapter.mtk.so:libtflite_mtk.mtk.so:libarmnn_ndk.mtk.so:libcmdl_ndk.mtk.so:libnir_neon_driver_ndk.mtk.so:libmvpu_runtime.mtk.so:libmvpu_runtime_pub.mtk.so:libmvpu_engine_pub.mtk.so:libmvpu_pattern_pub.mtk.so:libmvpuop_mtk_cv.mtk.so:libmvpuop_mtk_nn.mtk.so:libteeservice_client.trustonic.so:libSloganJni.oplus.so:libsuperNight.oplus.so
+05-24 21:13:55.337 26533 26533 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.GoogleCameraLMC' set to: 'default'
+05-24 21:13:55.338 26533 26533 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+05-24 21:13:55.346 26533 26533 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+05-24 21:13:55.346 26533 26533 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+05-24 21:13:55.443 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:55.445 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 167.17 ms > 70.00 ms
+05-24 21:13:55.446 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.33 > 0.25
+05-24 21:13:55.446 25658 25715 W CAM_A   : PHOTO > result sensor delay = 4.01 > 1.10
+05-24 21:13:55.518 26533 26585 W MC:crash_repor: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+05-24 21:13:55.518 26533 26585 W MC:crash_repor: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+05-24 21:13:55.526 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:55.528 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.75 > 0.25
+05-24 21:13:55.531 26533 26585 W MC:crash_repor: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+05-24 21:13:55.648 26533 26585 E GoogleApiManager: Failed to get service from broker. 
+05-24 21:13:55.648 26533 26585 E GoogleApiManager: java.lang.SecurityException: PackageVerificationRslt: not allowed: pkg=com.google.android.GoogleCameraLMC, sha256=[a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc], atk=false, ver=241616038.true
+05-24 21:13:55.648 26533 26585 E GoogleApiManager: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:2485)
+05-24 21:13:55.648 26533 26585 E GoogleApiManager: 	at android.os.Parcel.createException(Parcel.java:2469)
+05-24 21:13:55.648 26533 26585 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:2452)
+05-24 21:13:55.648 26533 26585 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:2394)
+05-24 21:13:55.648 26533 26585 E GoogleApiManager: 	at kmb.r(Unknown Source:137)
+05-24 21:13:55.648 26533 26585 E GoogleApiManager: 	at kke.run(Unknown Source:53)
+05-24 21:13:55.648 26533 26585 E GoogleApiManager: 	at android.os.Handler.handleCallback(Handler.java:938)
+05-24 21:13:55.648 26533 26585 E GoogleApiManager: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+05-24 21:13:55.648 26533 26585 E GoogleApiManager: 	at ksg.b(Unknown Source:0)
+05-24 21:13:55.648 26533 26585 E GoogleApiManager: 	at ksg.dispatchMessage(Unknown Source:0)
+05-24 21:13:55.648 26533 26585 E GoogleApiManager: 	at android.os.Looper.loopOnce(Looper.java:233)
+05-24 21:13:55.648 26533 26585 E GoogleApiManager: 	at android.os.Looper.loop(Looper.java:344)
+05-24 21:13:55.648 26533 26585 E GoogleApiManager: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+05-24 21:13:55.752 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:55.753 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 334.35 ms > 70.00 ms
+05-24 21:13:55.754 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 7.00 > 0.25
+05-24 21:13:55.755 25658 25715 W CAM_A   : PHOTO > result sensor delay = 8.02 > 1.10
+05-24 21:13:55.862 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:55.864 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.88 > 0.25
+05-24 21:13:55.957 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:55.959 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 208.97 ms > 70.00 ms
+05-24 21:13:55.959 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 4.00 > 0.25
+05-24 21:13:55.960 25658 25715 W CAM_A   : PHOTO > result sensor delay = 5.01 > 1.10
+05-24 21:13:55.972 25658 25667 I GoogleCameraLM: Background young concurrent copying GC freed 243353(9491KB) AllocSpace objects, 0(0B) LOS objects, 21% free, 16MB/20MB, paused 23.870ms,93us total 501.389ms
+05-24 21:13:56.073 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:56.074 25658 25658 W CAM_ShotTracker: Uncaught exception. Annotating all active shots.
+05-24 21:13:56.074 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 125.38 ms > 70.00 ms
+05-24 21:13:56.075 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.40 > 0.25
+05-24 21:13:56.076 25658 25715 W CAM_A   : PHOTO > result sensor delay = 3.01 > 1.10
+05-24 21:13:56.153 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:56.154 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 83.59 ms > 70.00 ms
+05-24 21:13:56.155 25658 25715 W CAM_A   : PHOTO > rel Δ(result sensor timestamp) = 0.33 > 0.25
+05-24 21:13:56.155 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.01 > 1.10
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: Retrieving snapshot for com.google.android.apps.camera#com.google.android.GoogleCameraLMC failed
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: java.util.concurrent.ExecutionException: java.lang.SecurityException: GoogleCertificatesRslt: not allowed: pkg=com.google.android.GoogleCameraLMC, sha256=[a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc], atk=false, ver=241616038.true (go/gsrlt)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at mip.fb(Unknown Source:27)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at mip.cd(Unknown Source:63)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at kuc.c(Unknown Source:12)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at kuc.e(Unknown Source:35)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at kuc.b(Unknown Source:1)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at gvh.a(Unknown Source:35)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at gvj.run(Unknown Source:9)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at law.run(Unknown Source:2)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at pio.a(Unknown Source:2)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at phs.run(Unknown Source:20)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at pip.run(Unknown Source:4)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:307)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at lbh.run(Unknown Source:2)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at lbg.run(Unknown Source:0)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at java.lang.Thread.run(Thread.java:1012)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at lab.run(Unknown Source:5)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: Caused by: java.lang.SecurityException: GoogleCertificatesRslt: not allowed: pkg=com.google.android.GoogleCameraLMC, sha256=[a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc], atk=false, ver=241616038.true (go/gsrlt)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:2485)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at android.os.Parcel.createException(Parcel.java:2469)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at android.os.Parcel.readException(Parcel.java:2452)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at android.os.Parcel.readException(Parcel.java:2394)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at bmn.z(Unknown Source:10)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at ktz.a(Unknown Source:38)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at kjd.f(Unknown Source:10)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at kkc.t(Unknown Source:9)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at kkc.u(Unknown Source:22)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at kkc.e(Unknown Source:15)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at kkg.handleMessage(Unknown Source:920)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at ksg.b(Unknown Source:0)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at ksg.dispatchMessage(Unknown Source:0)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at android.os.Looper.loopOnce(Looper.java:233)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at android.os.Looper.loop(Looper.java:344)
+05-24 21:13:56.160 25658 25685 E PhenotypeFlagCommitter: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+05-24 21:13:56.220 25658 25715 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+05-24 21:13:56.224 25658 25715 W CAM_A   : PHOTO > abs Δ(result sensor timestamp) = 83.59 ms > 70.00 ms
+05-24 21:13:56.225 25658 25715 W CAM_A   : PHOTO > result sensor delay = 2.01 > 1.10
+05-24 21:13:56.275 25658 25658 E Parcel  : Reading a NULL string not supported here.
+05-24 21:13:56.276 25658 25658 I Quality : SlowBinder: com.google.android.GoogleCameraLMC to android.app.IActivityManager cost= 200 code= 7
+05-24 21:13:56.276 25658 25658 I Process : Sending signal. PID: 25658 SIG: 9
